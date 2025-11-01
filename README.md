@@ -36,10 +36,10 @@ RVCのAPIは存在しましたが、**ある形式のデータ**を送ると必�
 * **機能:** **ダイレクト転送**を可能にするRVC本体の修正コードです。ファイルI/Oによるムダな転送時間をゼロにしました。
 * **ライセンス:** **MITライセンス (RVC本体のライセンスに準拠)**
 * **ダウンロード:** （準備中）
-    * **[→ modules.py](modules.py)**
-    * **[→ audio.py](audio.py)**
-    * **[→ infer-web.py](infer-web.py)**
-    * *※ RVCのインストールフォルダにあるファイルをこれらの修正ファイルに置き換える必要があります。詳細は[技術の詳細ページ](/details)をご覧ください。*
+    * [→ modules.py](modules.py) : `\RVC\infer\modules\vc\modules.py`
+    * [→ audio.py](audio.py) : `\RVC\infer\lib\audio.py`
+    * [→ infer-web.py](infer-web.py) : `\RVC\infer-web.py`
+    * *※ RVCのインストールフォルダにある既存のファイルをこれらのパスに上書きしてください。詳細は[技術の詳細ページ](/details)をご覧ください。*
 
 ---
 
