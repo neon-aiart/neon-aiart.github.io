@@ -39,7 +39,7 @@ RVCのAPIは存在しましたが、**ある形式のデータ**を送ると必�
     * [→ modules.py](modules.py) : `\RVC\infer\modules\vc\modules.py`
     * [→ audio.py](audio.py) : `\RVC\infer\lib\audio.py`
     * [→ infer-web.py](infer-web.py) : `\RVC\infer-web.py`
-    * *※ RVCのインストールフォルダにある既存のファイルをこれらのパスに上書きしてください。詳細は[技術の詳細ページ](/details)をご覧ください。*
+    * *※ RVCのインストールフォルダにある既存のファイルをこれらの差し替えてください。既存のファイルはバックアップして残しておくことを推奨します。詳細は[技術の詳細ページ](/details)をご覧ください。*
 
 ---
 
