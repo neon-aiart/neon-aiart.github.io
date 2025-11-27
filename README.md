@@ -1,50 +1,35 @@
-# ✨ neon-aiart.github.io
+# <img src="https://neon-aiart.github.io/favicon.ico" alt="neon-aiart icon" width="128" height="128"> **ねおん (Neon)**
 
-Official portal for the world-first "Gemini Voice" project: AI-driven RVC bug fix enabling **Direct Transfer** for voice conversion UserScript by neon-aiart.
-
----
-
-# 🎌 【世界初/RVC修正】AIartクリエイターねおんが実現した究極の音声対話「Gemini to VOICEVOX and RVC」
-
-## AI協調開発の究極の成功事例
-Pythonの知識ゼロのAIartクリエイターが、AI（Gemini）と協力して**VOICEVOX/RVCの連携**を実現。RVC本体の核心バグを修正し、**制限なしで好きな音声モデルでの会話**を可能にした、世界初のプロジェクトです。
-
----
-
-## 💡 問題の提起と解決の動機
-
-### 1. 究極のUXの追求
-ねおんの目標は、「**Geminiの回答を、VOICEVOX経由で好きな音声モデル（RVC）で、制限なしで読み上げてほしい**」という、**シームレスな体験**の追求でした。
-
-### 2. 誰も超えられなかった技術の壁
-RVCのAPIは存在しましたが、**ある形式のデータ**を送ると必ずエラーになるという**深刻なバグ**が本体コードに存在していました。
-
-**このRVC本体のバグこそが、好きな音声モデルでのダイレクトなAI会話という、理想のUX実現を妨げていた技術の壁だったのです。**
+<pre>
+<img src="https://www.google.com/s2/favicons?domain=bsky.app&size=16" alt="Bluesky icon"> Bluesky       :<a href="https://bsky.app/profile/neon-ai.art">https://bsky.app/profile/neon-ai.art</a>
+<img src="https://www.google.com/s2/favicons?domain=github.com&size=16" alt="GitHub icon"> GitHub        :<a href="https://github.com/neon-aiart">https://github.com/neon-aiart</a>
+<img src="https://www.google.com/s2/favicons?domain=greasyfork.org&size=16" alt="Greasy Fork icon"> Greasy Fork   :<a href="https://greasyfork.org/ja/users/1494762">https://greasyfork.org/ja/users/1494762</a>
+<img src="https://www.google.com/s2/favicons?domain=www.chichi-pui.com&size=16" alt="chichi-pui icon"> chichi-pui    :<a href="https://www.chichi-pui.com/users/neon/">https://www.chichi-pui.com/users/neon/</a>
+<img src="https://www.google.com/s2/favicons?domain=iromirai.jp&size=16" alt="iromirai icon"> iromirai      :<a href="https://iromirai.jp/creators/neon">https://iromirai.jp/creators/neon</a>
+<img src="https://www.google.com/s2/favicons?domain=www.days-ai.com&size=16" alt="DaysAI icon"> DaysAI        :<a href="https://www.days-ai.com/users/lxeJbaVeYBCUx11QXOee">https://www.days-ai.com/users/lxeJbaVeYBCUx11QXOee</a>
+</pre>
 
 ---
 
-## ✅ 成果物とダウンロード：究極のUXを今すぐ体験
+# 🔊 ねおん すぴっち リンク (Neon Spitch Link) v7.6
 
-このシステムは、以下の２つのファイルをセットで使うことで実現されます。
+**"AIとの会話を、あなたの好きな声で自動読み上げするUserScriptです。"**  
+**"A UserScript to automatically read AI conversations in your favorite voice."**
 
-### 1. UserScript本体 (Gemini to VOICEVOX and RVC)
-* **機能:** GeminiのUIを解析し、回答を抽出し、**VOICEVOX**（日本語音声合成）へ、そして**RVC**へデータを**直接転送**します。
-* **ライセンス:** **CC BY-NC 4.0 (非営利目的での利用のみ)**
-* **[✨ GreasyForkでインストールする (geminiVoice) ✨](https://greasyfork.org/ja/scripts/552996-gemini-to-voicevox)** （準備中）
+GitHub: [https://github.com/neon-aiart/neon-spitch-link/](https://github.com/neon-aiart/neon-spitch-link/)  
+GitHub Pages: [https://neon-aiart.github.io/neon-spitch-link/](https://neon-aiart.github.io/neon-spitch-link/)
 
-### 2. RVC修正Pythonファイル
-* **機能:** **ダイレクト転送**を可能にするRVC本体の修正コードです。ファイルI/Oによるムダな転送時間をゼロにしました。
-* **ライセンス:** **MITライセンス (RVC本体のライセンスに準拠)**
-* **ダウンロード:** （準備中）
-    * [→ modules.py](modules.py) : `\RVC\infer\modules\vc\modules.py`
-    * [→ audio.py](audio.py) : `\RVC\infer\lib\audio.py`
-    * [→ infer-web.py](infer-web.py) : `\RVC\infer-web.py`
-    * *※ RVCのインストールフォルダにある既存のファイルをこれらのファイルに差し替えてください。既存のファイルはバックアップして残しておくことを推奨します。詳細は[技術の詳細ページ](/details)をご覧ください。*
+GeminiやChatGPTなどの応答を、**Gemini / Open AI APIやPythonサーバーを一切使用せず**、VOICEVOXやRVCを使って**無制限かつ無料**で自動読み上げする**世界唯一**（公開時点）のUserScriptです。  
+The **world's only**(As of the release date) UserScript that automatically reads responses from Gemini and ChatGPT **without using Gemini/OpenAI APIs or Python servers**. It utilizes VOICEVOX and RVC for **unlimited and free** voice conversion.
 
 ---
 
-## 📢 技術の詳細（プログラマー向け）
+# 🐥 フィギュア化メーカー (Figure Maker) v6.3
 
-このRVCバグ修正の裏側と、Geminiとの**協調開発の全プロセス**については、**コード公開と同時**に、こちらのページで詳しく解説します。
+このアプリケーションは、**GoogleのGemini Canvas環境**専用の画像生成補助アプリです。  
+**元画像をアップロードするだけ**で、まるで市販されているような**高品質なフィギュア風AIイラスト**に変換（生成補助）します。
 
-**[→ 協調開発の物語と技術的詳細を見る (別ページへ)](/details)** （準備中）
+GitHub: [https://github.com/neon-aiart/figure-maker-gemini-canvas/](https://github.com/neon-aiart/figure-maker-gemini-canvas/)  
+GitHub Pages: [https://neon-aiart.github.io/figure-maker-gemini-canvas/](https://neon-aiart.github.io/figure-maker-gemini-canvas/)
+
+---
