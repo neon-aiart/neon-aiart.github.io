@@ -12,7 +12,7 @@
 
 ---
 
-# 💬 ねおん すぴっち リンク (Neon Spitch Link) v7.6
+# 💬 ねおん すぴっち リンク (Neon Spitch Link)
 
 **"AIとの会話を、あなたの好きな声で自動読み上げするUserScriptです。"**  
 **"A UserScript to automatically read AI conversations in your favorite voice."**
@@ -25,12 +25,45 @@ The **world's only**(As of the release date) UserScript that automatically reads
 
 ---
 
-# 🐥 フィギュア化メーカー (Figure Maker) v6.3
+# 🐥 フィギュア化メーカー (Figure Maker)
 
 このアプリケーションは、**GoogleのGemini Canvas環境**専用の画像生成補助アプリです。  
 **元画像をアップロードするだけ**で、まるで市販されているような**高品質なフィギュア風AIイラスト**に変換（生成補助）します。
 
 GitHub: [https://github.com/neon-aiart/figure-maker-gemini-canvas/](https://github.com/neon-aiart/figure-maker-gemini-canvas/)  
 GitHub Pages: [https://neon-aiart.github.io/figure-maker-gemini-canvas/](https://neon-aiart.github.io/figure-maker-gemini-canvas/)
+
+---
+
+# ⚖ Bluesky Follower Multi-Comparer
+
+複数アカウント（最大３つ）のフォロワーさんを比較し、共通点や差異を抽出するツールです。  
+A tool to compare followers of multiple accounts (up to 3) and extract commonalities and differences.
+
+GitHub: [https://github.com/neon-aiart/bsky-follower-comparer/](https://github.com/neon-aiart/bsky-follower-comparer/)
+
+---
+
+# 🔄️ Bluesky⇔Tokimeki 切り替え (bluesky Tokimeki Switcher)
+
+**Bluesky (bsky.app)** と **Tokimeki (tokimeki.blue)** のURLを、**ボタン、キーボードショートカット、右クリックメニュー**で瞬時に切り替えるUserScriptです。
+
+GitHub: [https://github.com/neon-aiart/bsky-tokimeki-switcher/](https://github.com/neon-aiart/bsky-tokimeki-switcher/)
+
+---
+
+# 🌈 Tokimeki MediaView Fix
+
+Blueskyクライアント "Tokimeki" における、メディアビューのバグ(？)を修正し、さらに、キーボード操作による快適な閲覧体験を追加するUserScriptです。
+
+GitHub: [https://github.com/neon-aiart/tokimeki-media-view-fix/](https://github.com/neon-aiart/tokimeki-media-view-fix/)
+
+---
+
+# ↩️ 履歴の最初に戻る (historyGoFirst)
+
+ブラウザの「履歴」機能にアクセスし、**開いたページの中から一番最初のページまで一気に「戻る」操作**を実行するUserScriptです。
+
+GitHub: [https://github.com/neon-aiart/history-go-first/](https://github.com/neon-aiart/history-go-first/)
 
 ---
