@@ -1,4 +1,4 @@
-<details style="display:none">
+<details hidden>
 <style>
   /* ヘッダー・フッター・自動タイトルを物理的に抹殺 */
   header.site-header, 
