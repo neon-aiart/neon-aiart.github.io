@@ -1,7 +1,3 @@
-<div style="display:none">
-<style>header.site-header,footer.site-footer,.site-header,.site-footer,.page-heading{display:none!important}@media(prefers-color-scheme:light){html,body,.site-container,.page-content,.wrapper{background-color:#fff0f5!important;color:#24292f!important}strong,h1,h2,h3{color:#24292f!important}a{color:#0969da!important}}@media(prefers-color-scheme:dark){html,body,.site-container,.page-content,.wrapper{background-color:#0d1117!important;color:#c9d1d9!important}strong,h1,h2,h3{color:#c9d1d9!important}a{color:#58a6ff!important}table,td,th{border-color:#30363d!important}}</style>
-</div>
-
 # <img src="https://neon-aiart.github.io/favicon.ico" alt="neon-aiart icon" width="128" height="128" /> **ねおん (Neon)** <img src="https://komarev.com/ghpvc/?username=neon-aiart&label=Profile%20views&color=0e75b6&style=flat" alt="neon-aiart" align="right" />  
 
 <table align="center" border="0" width="100%">
@@ -121,7 +117,7 @@
 
 ---
 
-## 🎀 Project Showcase 🎀
+## 🎀 Projects Showcase 🎀
 
 ### **💬 [Neon Spitch Link](https://github.com/neon-aiart/neon-spitch-link/)**
 **AIとの会話を好きな声で自動読み上げ。** APIやサーバー不要で、VOICEVOXやRVCを無料で利用できる世界唯一のUserScript。  
