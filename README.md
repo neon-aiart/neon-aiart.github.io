@@ -1,8 +1,25 @@
 <style>
+  /* 1. ヘッダー・フッター・自動タイトルを物理的に抹殺 */
+  header.site-header, 
+  footer.site-footer, 
+  .site-header, 
+  .site-footer, 
+  .page-heading { 
+    display: none !important; 
+    height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    visibility: hidden !important;
+  }
 
-  .page-heading { display: none !important; }
+  /* 2. 背景色を強制的にうっすらピンクにする */
+  /* htmlとbodyの両方にかけ、かつ内側の要素も透明化します */
+  html, body, .site-container, .page-content, .wrapper {
+    background-color: #fff0f5 !important; 
+  }
 
-  body { background-color: #fff0f5 !important; } /* LavenderBlush: 非常に淡いピンク */
+  /* 3. 余計な枠線や影も消す */
+  .site-header { border: none !important; }
 </style>
 
 # <img src="https://neon-aiart.github.io/favicon.ico" alt="neon-aiart icon" width="128" height="128" /> **ねおん (Neon)** <img src="https://komarev.com/ghpvc/?username=neon-aiart&label=Profile%20views&color=0e75b6&style=flat" alt="neon-aiart" align="right" />  
