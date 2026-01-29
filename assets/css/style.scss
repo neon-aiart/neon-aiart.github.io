@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll/minima";
+@import "{{ site.remote_theme }}";
 
 /* ヘッダー・フッター・自動タイトルを物理的に抹殺 */
 header.site-header,
