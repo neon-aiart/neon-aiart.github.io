@@ -24,13 +24,13 @@
   /* --- ダークモードの設定 --- */
   @media (prefers-color-scheme: dark) {
     html, body, .site-container, .page-content, .wrapper {
-      background-color: #0d1117 !important; /* GitHubダークモードの背景色 */
+      background-color: #212830 !important; /* GitHubダークモードの背景色 */
       color: #c9d1d9 !important;            /* GitHubダークモードの文字色 */
     }
     a { color: #58a6ff !important; }        /* 青リンクを見やすく */
     
     /* ダークモードでテーブルの境界線が見えなくなるのを防ぐ */
-    table, td, th {
+    table, tr, td, th {
       border-color: #30363d !important;
     }
   }
