@@ -1,10 +1,13 @@
-# <img src="https://neon-aiart.github.io/favicon.ico" alt="neon-aiart icon" width="128" height="128"> **ねおん (Neon)**
+<style>
+  .site-header { display: none !important; }
+  .page-heading { display: none !important; }
+</style>
+
+# <img src="https://neon-aiart.github.io/favicon.ico" alt="neon-aiart icon" width="128" height="128" /> **ねおん (Neon)** <img src="https://komarev.com/ghpvc/?username=neon-aiart&label=Profile%20views&color=0e75b6&style=flat" alt="neon-aiart" align="right" />  
 
 <table align="center" border="0" width="100%">
   <tr>
     <td align="center" valign="top" width="560">
-      <img src="https://komarev.com/ghpvc/?username=neon-aiart&label=Profile%20views&color=0e75b6&style=flat" alt="neon-aiart" style="float:right;" />
-      <br clear="right">
       <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo" />
       <img width="12" />
       <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo" />
