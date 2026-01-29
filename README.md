@@ -18,14 +18,23 @@
   @media (prefers-color-scheme: light) {
     html, body, .site-container, .page-content, .wrapper {
       background-color: #fff0f5 !important; /* 薄いピンク */
-      color: #333333 !important;            /* 文字色を読みやすく */
+      color: #ffffff !important;            /* 文字色を読みやすく */
     }
+    a { color: #0969da !important; }        /* リンクの色も調整 */
   }
 
   /* ダークモードの時は背景を指定しない（またはお好みで設定） */
   @media (prefers-color-scheme: dark) {
-    /* ダークモードで何か変えたい場合はここに書きますが、
-       空にしておけばOS/ブラウザ標準の黒背景が維持されます */
+    html, body, .site-container, .page-content, .wrapper {
+      background-color: #0d1117 !important; /* GitHubダークモードの背景色 */
+      color: #c9d1d9 !important;            /* GitHubダークモードの文字色 */
+    }
+    a { color: #58a6ff !important; }        /* 青リンクを見やすく */
+    
+    /* ダークモードでテーブルの境界線が見えなくなるのを防ぐ */
+    table, td, th {
+      border-color: #30363d !important;
+    }
   }
 
   /* 余計な枠線や影も消す */
