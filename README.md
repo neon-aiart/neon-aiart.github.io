@@ -1,3 +1,4 @@
+<!--
 <style>
   /* 1. ヘッダー・フッター・自動タイトルを物理的に抹殺 */
   header.site-header, 
@@ -14,13 +15,14 @@
 
   /* 2. 背景色を強制的にうっすらピンクにする */
   /* htmlとbodyの両方にかけ、かつ内側の要素も透明化します */
-  html, body, .site-container, .page-content, .wrapper {
+  html, body, td, .site-container, .page-content, .wrapper {
     background-color: #fff0f5 !important; 
   }
 
   /* 3. 余計な枠線や影も消す */
   .site-header { border: none !important; }
 </style>
+-->
 
 # <img src="https://neon-aiart.github.io/favicon.ico" alt="neon-aiart icon" width="128" height="128" /> **ねおん (Neon)** <img src="https://komarev.com/ghpvc/?username=neon-aiart&label=Profile%20views&color=0e75b6&style=flat" alt="neon-aiart" align="right" />  
 
