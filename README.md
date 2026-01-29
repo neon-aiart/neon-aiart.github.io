@@ -1,3 +1,8 @@
+---
+layout: default
+title: ""
+---
+
 # <img src="https://neon-aiart.github.io/favicon.ico" alt="neon-aiart icon" width="128" height="128"> **ねおん (Neon)**
 
 <table align="center" border="0" width="100%">
