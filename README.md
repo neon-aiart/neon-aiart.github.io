@@ -1,5 +1,5 @@
 <style>
-    .site-header .page-heading .site-footer {
+    header .page-heading footer {
         display: none !important;
     }
     body {
