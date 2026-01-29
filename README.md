@@ -1,13 +1,10 @@
-<meta name="google-site-verification" content="C-lY-Xpcx8_KgeKX9rJ3u_rIjnI-aUyY0GZd9S8Btw4" />
-<!--
 # <img src="https://neon-aiart.github.io/favicon.ico" alt="neon-aiart icon" width="128" height="128"> **ねおん (Neon)**
--->
 
 <table align="center" border="0" width="100%">
   <tr>
     <td align="center" valign="top" width="560">
-      <img src="https://komarev.com/ghpvc/?username=neon-aiart&label=Profile%20views&color=0e75b6&style=flat" alt="neon-aiart" align="right" />
-      <h2>ねおん</h2>
+      <img src="https://komarev.com/ghpvc/?username=neon-aiart&label=Profile%20views&color=0e75b6&style=flat" alt="neon-aiart" style="float:right;" />
+      <br clear="right">
       <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo" />
       <img width="12" />
       <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo" />
@@ -32,7 +29,8 @@
       </a>
       <a href="mailto:neon.aiillust@gmail.com">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-      </a><br />
+      </a>
+      <br />
       <a href="https://greasyfork.org/ja/users/1494762">
         <img src="https://img.shields.io/badge/Greasymonkey-Userscript-f0ad4e?style=for-the-badge&logo=javascript&logoColor=black" alt="Greasymonkey" />
       </a>
