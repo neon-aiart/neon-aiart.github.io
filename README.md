@@ -30,7 +30,7 @@
     a { color: #58a6ff !important; }        /* 青リンクを見やすく */
     
     /* ダークモードでテーブルの境界線が見えなくなるのを防ぐ */
-    table, tr, td, th {
+    table, td, th {
       border-color: #30363d !important;
     }
   }
