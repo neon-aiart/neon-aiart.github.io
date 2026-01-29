@@ -18,7 +18,7 @@
       background-color: #fff0f5 !important; /* 薄いピンク */
       color: #24292f !important;            /* GitHub標準の文字色 */
     }
-    strong, h1, h2, h3 { color: #24292f !important; }
+    strong, h1, h2, h3, p { color: #24292f !important; }
     a { color: #0969da !important; }        /* リンクの色も調整 */
   }
 
@@ -28,8 +28,8 @@
       background-color: #212830 !important; /* GitHubダークモードの背景色 */
       color: #c9d1d9 !important;            /* GitHubダークモードの文字色 */
     }
-    strong, h1, h2, h3 { color: #c9d1d9 !important; }
-    a { color: #58a6ff !important; }        /* 青リンクを見やすく */
+    strong, h1, h2, h3, p { color: #c9d1d9 !important; }
+    a { color: #96D0ff !important; }        /* 青リンクを見やすく */
     
     /* ダークモードでテーブルの境界線が見えなくなるのを防ぐ */
     table, tr, td, th {
