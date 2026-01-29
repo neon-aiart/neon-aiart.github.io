@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="C-lY-Xpcx8_KgeKX9rJ3u_rIjnI-aUyY0GZd9S8Btw4" />
 <!--
 # <img src="https://neon-aiart.github.io/favicon.ico" alt="neon-aiart icon" width="128" height="128"> **ねおん (Neon)**
 -->
