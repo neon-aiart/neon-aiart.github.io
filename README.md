@@ -1,6 +1,6 @@
 <!--
 <style>
-  /* 1. ヘッダー・フッター・自動タイトルを物理的に抹殺 */
+  /* ヘッダー・フッター・自動タイトルを物理的に抹殺 */
   header.site-header, 
   footer.site-footer, 
   .site-header, 
@@ -13,13 +13,23 @@
     visibility: hidden !important;
   }
 
-  /* 2. 背景色を強制的にうっすらピンクにする */
+  /* 背景色を強制的にうっすらピンクにする */
+  /* ライトモード（明るい設定）の時だけ実行 */
   /* htmlとbodyの両方にかけ、かつ内側の要素も透明化します */
-  html, body, .site-container, .page-content, .wrapper {
-    background-color: #fff0f5 !important; 
+  @media (prefers-color-scheme: light) {
+    html, body, .site-container, .page-content, .wrapper {
+      background-color: #fff0f5 !important; /* 薄いピンク */
+      color: #333333 !important;            /* 文字色を読みやすく */
+    }
   }
 
-  /* 3. 余計な枠線や影も消す */
+  /* ダークモードの時は背景を指定しない（またはお好みで設定） */
+  @media (prefers-color-scheme: dark) {
+    /* ダークモードで何か変えたい場合はここに書きますが、
+       空にしておけばOS/ブラウザ標準の黒背景が維持されます */
+  }
+
+  /* 余計な枠線や影も消す */
   .site-header { border: none !important; }
 </style>
 -->
