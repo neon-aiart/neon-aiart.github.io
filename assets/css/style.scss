@@ -1,7 +1,9 @@
 ---
 ---
 
-@import "{{ site.remote_theme }}";
+@import
+    "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+    "minima/initialize";
 
 /* ヘッダー・フッター・自動タイトルを物理的に抹殺 */
 header.site-header,
