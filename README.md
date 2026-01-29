@@ -15,7 +15,7 @@
 
   /* 2. 背景色を強制的にうっすらピンクにする */
   /* htmlとbodyの両方にかけ、かつ内側の要素も透明化します */
-  html, body, td, .site-container, .page-content, .wrapper {
+  html, body, .site-container, .page-content, .wrapper {
     background-color: #fff0f5 !important; 
   }
 
