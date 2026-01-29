@@ -1,4 +1,6 @@
-<!-- {% include_relative style.html %} -->
+<!--
+{% include_relative style.html %}
+-->
 
 # <img src="https://neon-aiart.github.io/favicon.ico" alt="neon-aiart icon" width="128" height="128" /> **ねおん (Neon)** <img src="https://komarev.com/ghpvc/?username=neon-aiart&label=Profile%20views&color=0e75b6&style=flat" alt="neon-aiart" align="right" />  
 
