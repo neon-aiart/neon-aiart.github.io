@@ -12,18 +12,16 @@
     visibility: hidden !important;
   }
 
-  /* 背景色を強制的にうっすらピンクにする */
-  /* ライトモード（明るい設定）の時だけ実行 */
-  /* htmlとbodyの両方にかけ、かつ内側の要素も透明化します */
+  /* --- ライトモードの設定 --- */
   @media (prefers-color-scheme: light) {
     html, body, .site-container, .page-content, .wrapper {
       background-color: #fff0f5 !important; /* 薄いピンク */
-      color: #ffffff !important;            /* 文字色を読みやすく */
+      color: #24292f !important;            /* GitHub標準の文字色 */
     }
     a { color: #0969da !important; }        /* リンクの色も調整 */
   }
 
-  /* ダークモードの時は背景を指定しない（またはお好みで設定） */
+  /* --- ダークモードの設定 --- */
   @media (prefers-color-scheme: dark) {
     html, body, .site-container, .page-content, .wrapper {
       background-color: #0d1117 !important; /* GitHubダークモードの背景色 */
