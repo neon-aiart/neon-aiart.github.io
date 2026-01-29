@@ -12,6 +12,29 @@
     visibility: hidden !important;
   }
 
+  /* --- ライトモードの設定 --- */
+  @media (prefers-color-scheme: light) {
+    html, body, .site-container, .page-content, .wrapper {
+      background-color: #fff0f5 !important; /* 薄いピンク */
+      color: rgb(158, 42, 158) !important;            /* GitHub標準の文字色 */
+    }
+    a { color: #850636 !important; }        /* リンクの色も調整 */
+  }
+
+  /* --- ダークモードの設定 --- */
+  @media (prefers-color-scheme: dark) {
+    html, body, .site-container, .page-content, .wrapper {
+      background-color: #212830 !important; /* GitHubダークモードの背景色 */
+      color: #afc93d !important;            /* GitHubダークモードの文字色 */
+    }
+    a { color: #7c5f10 !important; }        /* 青リンクを見やすく */
+    
+    /* ダークモードでテーブルの境界線が見えなくなるのを防ぐ */
+    table, td, th {
+      border-color: #30363d !important;
+    }
+  }
+
   /* 余計な枠線や影も消す */
   .site-header { border: none !important; }
 </style>
