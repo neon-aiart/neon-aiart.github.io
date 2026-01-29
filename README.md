@@ -1,4 +1,3 @@
-<!--
 <style>
   /* ヘッダー・フッター・自動タイトルを物理的に抹殺 */
   header.site-header, 
@@ -32,7 +31,6 @@
   /* 余計な枠線や影も消す */
   .site-header { border: none !important; }
 </style>
--->
 
 # <img src="https://neon-aiart.github.io/favicon.ico" alt="neon-aiart icon" width="128" height="128" /> **ねおん (Neon)** <img src="https://komarev.com/ghpvc/?username=neon-aiart&label=Profile%20views&color=0e75b6&style=flat" alt="neon-aiart" align="right" />  
 
