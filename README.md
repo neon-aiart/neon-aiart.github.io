@@ -1,7 +1,7 @@
 <style>
-  .site-header { display: none !important; }
+
   .page-heading { display: none !important; }
-  .site-footer { display: none !important; }
+
   body { background-color: #fff0f5 !important; } /* LavenderBlush: 非常に淡いピンク */
 </style>
 
