@@ -1,3 +1,7 @@
 _config.ymlremote_theme: jekyll/minima
 commonmarker:
   options: [RAW_HTML]
+kramdown:
+  parse_block_html: true
+  syntax_highlighter_opts:
+    disable: true # タグがコードブロック扱いされるのを防ぐ
