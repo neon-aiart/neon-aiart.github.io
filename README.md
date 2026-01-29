@@ -20,6 +20,10 @@
     }
     strong, h1, h2, h3, p { color: #24292f !important; }
     a { color: #0969da !important; }        /* リンクの色も調整 */
+    table, tr, td, th {
+      background-color: #fff0f5 !important;
+      border-color: #24292f !important;
+    }
   }
 
   /* --- ダークモードの設定 --- */
@@ -30,10 +34,9 @@
     }
     strong, h1, h2, h3, p { color: #c9d1d9 !important; }
     a { color: #96D0ff !important; }        /* 青リンクを見やすく */
-    
-    /* ダークモードでテーブルの境界線が見えなくなるのを防ぐ */
     table, tr, td, th {
-      border-color: #30363d !important;
+      background-color: #212830 !important;
+      border-color: #c9d1d9 !important;
     }
   }
 
