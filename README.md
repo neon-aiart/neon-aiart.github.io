@@ -155,10 +155,6 @@ A specialized UserScript for "Tokimeki" to **instantly copy "Invariable Links (D
 **AIイラスト投稿サイトのタグ入力を自動化。** テンプレート化したタグをワンクリックで入力・確定し、投稿の手間を大幅に削減します。  
 **Automates tag entry for AI illustration sites** like Chichi-pui and Iromirai. Save templates and fill/confirm tags with a single click.  
 
-### **📺 [TVer Click to Play](https://github.com/neon-aiart/tver-click-to-play/)**
-**TVerの動画自動再生を防止。** ページを開いた際に動画が勝手に流れ出すのを防ぎ、自分のタイミングで再生を開始できます。  
-A simple script that **prevents videos from auto-playing when opening a TVer episode page,** allowing you to play at your convenience.  
-
 ### **↩️ [History Go First](https://github.com/neon-aiart/history-go-first/)**
 **履歴の最初へ一気に戻る。** ブラウザの履歴を遡り、最初に開いたページまで瞬時に戻ります。  
 A UserScript that **navigates back to the very first page** of the browser history in one go.  
@@ -166,6 +162,12 @@ A UserScript that **navigates back to the very first page** of the browser histo
 ### **💾 [HTML Source Downloader](https://github.com/neon-aiart/html-source-downloader/)**
 **Webページのソースを文字化けせず保存。** HTMLソースコードを、UTF-8形式で安全にローカルへ保存できるUserScriptです。  
 A UserScript to save **the HTML source code of web pages** in UTF-8 format without character encoding issues.  
+
+<!--
+### **📺 [TVer Click to Play](https://github.com/neon-aiart/tver-click-to-play/)**
+**TVerの動画自動再生を防止。** ページを開いた際に動画が勝手に流れ出すのを防ぎ、自分のタイミングで再生を開始できます。  
+A simple script that **prevents videos from auto-playing when opening a TVer episode page,** allowing you to play at your convenience.  
+-->
 
 <!--
 <script src="https://blueskytimeline.com/timeline.js" async data-handle="neon-ai.art" data-theme="gray" data-width="420" data-height="500" data-lang="ja" data-ui="0" data-prof="0" data-pin="1" data-rp="1" data-thread="0" data-id="timeline"></script>
