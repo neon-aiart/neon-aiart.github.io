@@ -136,7 +136,7 @@
 **An image generation aid for Gemini Canvas.** Converts uploaded images into high-quality figure-style AI illustrations.  
 
 > see also:&nbsp;
-> <a href="#-Gemini-Canvasの裏側：-消えたモデルと、残った専用モデル、そして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" width="20" height="20" align="center"></a>  
+> <a href="#-gemini-canvasの裏側-消えたモデルと残った専用モデルそして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" width="20" height="20" align="center"></a>  
 
 ### **🍽️ [Meshi AIart Maker](https://github.com/neon-aiart/meshi-art-maker/)**  
 
@@ -144,7 +144,7 @@
 An ultimate "Appetite-Stimulating" image generation aid specifically designed for the **Google Gemini Canvas environment**.  
 
 > see also:&nbsp;
-> <a href="#-Gemini-Canvasの裏側：-消えたモデルと、残った専用モデル、そして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" width="20" height="20" align="center"></a>&nbsp;
+> <a href="#-gemini-canvasの裏側-消えたモデルと残った専用モデルそして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" width="20" height="20" align="center"></a>&nbsp;
 > <a href="https://youtu.be/8zejiDRTeWk"><img src="https://www.google.com/s2/favicons?domain=youtu.be&size=32" alt="YouTube" width="20" height="20" align="center"></a>  
 
 ### **🐦 [Chirp Whisper Link](https://github.com/neon-aiart/chirp-whisper-link/)**  
