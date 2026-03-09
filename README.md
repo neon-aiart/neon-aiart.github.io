@@ -234,8 +234,8 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 * **Behind Gemini Canvas: Disappearing Models, Surviving Dedicated Models, and the Unannounced New Generation**  
 
 > see also:&nbsp;
-> <a href="#-figure-aiart-maker"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f425/512.png" alt="💬" width="20" height="20" align="center"></a>&nbsp;
-> <a href="#-meshi-aiart-maker"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37d/512.png" alt="🍣" width="20" height="20" align="center"></a>  
+> <a href="#-figure-aiart-maker"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f425/512.png" alt="🐥" width="20" height="20" align="center"></a>&nbsp;
+> <a href="#️-meshi-aiart-maker"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37d/512.png" alt="🍽️" width="20" height="20" align="center"></a>  
 
 <!--
 <script src="https://blueskytimeline.com/timeline.js" async data-handle="neon-ai.art" data-theme="gray" data-width="420" data-height="500" data-lang="ja" data-ui="0" data-prof="0" data-pin="1" data-rp="1" data-thread="0" data-id="timeline"></script>
