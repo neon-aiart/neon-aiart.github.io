@@ -135,12 +135,16 @@
 **Gemini Canvas専用の画像生成補助アプリ。** アップロードするだけで、高品質なフィギュア風イラストに変換します。  
 **An image generation aid for Gemini Canvas.** Converts uploaded images into high-quality figure-style AI illustrations.  
 
+> see also:&nbsp;
+> <a href="#-Gemini-Canvasの裏側：-消えたモデルと、残った専用モデル、そして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" width="20" height="20" align="center"></a>  
+
 ### **🍽️ [Meshi AIart Maker](https://github.com/neon-aiart/meshi-art-maker/)**  
 
 **Gemini Canvas専用の画像生成補助アプリ。** ワンクリックで、究極の「飯テロ」画像が生成できます。  
 An ultimate "Appetite-Stimulating" image generation aid specifically designed for the **Google Gemini Canvas environment**.  
 
 > see also:&nbsp;
+> <a href="#-Gemini-Canvasの裏側：-消えたモデルと、残った専用モデル、そして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" width="20" height="20" align="center"></a>&nbsp;
 > <a href="https://youtu.be/8zejiDRTeWk"><img src="https://www.google.com/s2/favicons?domain=youtu.be&size=32" alt="YouTube" width="20" height="20" align="center"></a>  
 
 ### **🐦 [Chirp Whisper Link](https://github.com/neon-aiart/chirp-whisper-link/)**  
@@ -224,6 +228,14 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 > see also:&nbsp;
 > <a href="#-neon-spitch-link"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.png" alt="💬" width="20" height="20" align="center"></a>&nbsp;
 > <a href="#-spitch-omakase-connect"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f363/512.png" alt="🍣" width="20" height="20" align="center"></a>  
+
+### 📖 **[Gemini Canvasの裏側： 消えたモデルと、残った専用モデル、そして非公表の新モデルのお話](https://zenn.dev/neon_aiart/articles/2fa4ec63993817)**  
+
+* **Behind Gemini Canvas: Disappearing Models, Surviving Dedicated Models, and the Unannounced New Generation**  
+
+> see also:&nbsp;
+> <a href="#-figure-aiart-maker"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f425/512.png" alt="💬" width="20" height="20" align="center"></a>&nbsp;
+> <a href="#-meshi-aiart-maker"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37d/512.png" alt="🍣" width="20" height="20" align="center"></a>  
 
 <!--
 <script src="https://blueskytimeline.com/timeline.js" async data-handle="neon-ai.art" data-theme="gray" data-width="420" data-height="500" data-lang="ja" data-ui="0" data-prof="0" data-pin="1" data-rp="1" data-thread="0" data-id="timeline"></script>
