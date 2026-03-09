@@ -145,7 +145,7 @@ An ultimate "Appetite-Stimulating" image generation aid specifically designed fo
 
 ### **🐦 [Chirp Whisper Link](https://github.com/neon-aiart/chirp-whisper-link/)**  
 
-YouTube URLやローカルファイルから、Whisperを使って自動で文字起こしするシンプルなColabスクリプトです  
+~~YouTube URLや~~ローカルファイルから、Whisperを使って自動で文字起こしするシンプルなColabスクリプトです  
 A simple Google Colab script to transcribe audio from YouTube URLs or local files using Whisper.  
 
 ### **🔄️ [Bluesky Tokimeki Switcher](https://github.com/neon-aiart/bsky-tokimeki-switcher/)**  
