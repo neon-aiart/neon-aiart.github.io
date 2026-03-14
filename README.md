@@ -231,11 +231,15 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 
 ### 📖 **[Gemini Canvasの裏側： 消えたモデルと、残った専用モデル、そして非公表の新モデルのお話](https://zenn.dev/neon_aiart/articles/2fa4ec63993817)**  
 
-* **Behind Gemini Canvas: Disappearing Models, Surviving Dedicated Models, and the Unannounced New Generation**  
+* **[Inside the Gemini Canvas: Disappearing Models, Surviving Dedicated Models, and the Unannounced New Generation](https://zenn.dev/neon_aiart/articles/2fa4ec63993817?locale=en)**  
 
 > see also:&nbsp;
 > <a href="#-figure-aiart-maker"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f425/512.png" alt="🐥" width="20" height="20" align="center"></a>&nbsp;
 > <a href="#️-meshi-aiart-maker"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37d/512.png" alt="🍽️" width="20" height="20" align="center"></a>  
+
+### 📖 **[Gemini×NotebookLMの裏側： 見えるものと見えないもの、正しく使うための攻略法のお話](https://zenn.dev/neon_aiart/articles/0b4ef73b190983)**  
+
+* **Inside the Gemini × NotebookLM Integration: Navigating the Seen, the Unseen, and the "Context Gap"**  
 
 <!--
 <script src="https://blueskytimeline.com/timeline.js" async data-handle="neon-ai.art" data-theme="gray" data-width="420" data-height="500" data-lang="ja" data-ui="0" data-prof="0" data-pin="1" data-rp="1" data-thread="0" data-id="timeline"></script>
