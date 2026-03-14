@@ -71,7 +71,7 @@
   <tr>
     <td align="center">
       <!-- https://github-readme-streak-stats.herokuapp.com/?user=neon-aiart -->
-      <picture> 
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://image-cache.neon-aiillust.workers.dev/?url=https://github-readme-streak-stats.herokuapp.com/?user=neon-aiart%26theme=dracula">
         <source media="(prefers-color-scheme: light)" srcset="https://image-cache.neon-aiillust.workers.dev/?url=https://github-readme-streak-stats.herokuapp.com/?user=neon-aiart%26theme=buefy">
         <img src="https://image-cache.neon-aiillust.workers.dev/?url=https://github-readme-streak-stats.herokuapp.com/?user=neon-aiart%26theme=buefy" alt="neon-stats">
