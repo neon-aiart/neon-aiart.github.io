@@ -3,109 +3,122 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td align="center" valign="top" width="560">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo" />
-      <img width="12" />
-      <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo" />
-      <img width="12" />
-      <img src="https://cdn.simpleicons.org/css/1572B6" height="30" alt="css logo" />
-      <img width="12" />
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-      <img width="12" />
-      <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo" />
-      <img width="12" />
-      <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="30" alt="bluesky logo" />
-      <img width="12" />
-      <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo" />
-      <br />
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" alt="javascript">
+      &thinsp;
+      <img src="https://cdn.simpleicons.org/html5/E34F26" height="28" alt="html5">
+      &thinsp;
+      <img src="https://cdn.simpleicons.org/css/1572B6" height="28" alt="css">
+      &thinsp;
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="28" alt="tailwindcss">
+      &thinsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode">
+      &thinsp;
+      <a href="https://github.com/neon-aiart">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/d1d7e0"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"><img src="https://cdn.simpleicons.org/github/181717" height="28" alt="github"></picture></a>
+      &thinsp;
+      <a href="https://zenn.dev/neon_aiart">
+        <img src="https://cdn.simpleicons.org/zenn/3EA8FF" height="28" alt="zenn"></a>
+      &thinsp;
       <a href="https://bsky.app/profile/neon-ai.art/">
-        <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bluesky logo" />
-      </a>
-      <a href="https://discordapp.com/users/1369337737848815701">
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-      </a>
+        <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="28" alt="bluesky"></a>
+      &thinsp;
+      <a href="https://discord.com/users/1369337737848815701">
+        <img src="https://cdn.simpleicons.org/discord/5865F2" height="28" alt="discord"></a>
+      <br>
+      <a href="https://bsky.app/profile/neon-ai.art/">
+        <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="bluesky"></a>
+      &thinsp;
+      <a href="https://discord.com/users/1369337737848815701">
+        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord"></a>
+      &thinsp;
       <a href="mailto:neon.aiillust@gmail.com">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-      </a>
-      <br />
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail"></a>
+      <br>
+      <a href="https://zenn.dev/neon_aiart">
+        <img src="https://img.shields.io/badge/Zenn-%233EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white" height="28" alt="zenn"></a>
+      &thinsp;
       <a href="https://greasyfork.org/ja/users/1494762">
-        <img src="https://img.shields.io/badge/Greasymonkey-Userscript-f0ad4e?style=for-the-badge&logo=javascript&logoColor=black" alt="Greasymonkey" />
-      </a>
+        <img src="https://img.shields.io/badge/Greasymonkey-Userscript-f0ad4e?style=for-the-badge&logo=javascript&logoColor=black" height="28"  alt="greasymonkey"></a>
     </td>
     <td align="center" valign="top" width="380" rowspan="3">
       <div style="height: 100%;">
         <a href="https://random-image.neon-aiillust.workers.dev/purge-and-close" target="_blank" rel="noopener noreferrer">
-          <img src="https://random-image.neon-aiillust.workers.dev/" style="max-height: 480px; width: 100%; height: auto; object-fit: contain;" alt="Random AI Art" /><br />
-          click to camo purge and refresh
-        </a><br />
+          <img src="https://random-image.neon-aiillust.workers.dev/" style="max-height: 480px; width: 100%; height: auto; object-fit: contain;" alt="Random AI Art"><br>
+          click to camo purge and refresh</a>
+        <br>
         23 images and 4 GIFs at random
       </div>
       <h2></h2>
       <p align="right">
-        DevLog: <br />
+        DevLog: <br>
+        <a href="https://zenn.dev/neon_aiart">
+          <img src="https://img.shields.io/badge/Zenn-Dev-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"></a>
+        <br>
         <a href="https://sizu.me/neon_aiart">
-          <img src="https://img.shields.io/badge/Diary-%E3%81%97%E3%81%9A%E3%81%8B%E3%81%AA%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88-5BE?style=for-the-badge&logo=googledocs&logoColor=white" alt="しずかなインターネット" />
-        </a><br />
-        Support: <br />
+          <img src="https://img.shields.io/badge/Diary-%E3%81%97%E3%81%9A%E3%81%8B%E3%81%AA%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88-5BE?style=for-the-badge&logo=googledocs&logoColor=white" alt="しずかなインターネット"></a>
+        <br>
+        Support: <br>
         <!--
         <a href="https://github.com/sponsors/neon-aiart">
-          <img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=for-the-badge&logo=github&logoColor=white" />
-        </a><br />
+          <img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=for-the-badge&logo=github&logoColor=white"></a>
+        <br>
         -->
         <a href="https://ofuse.me/neon">
-          <img src="https://img.shields.io/badge/OFUSE-%E5%BF%9C%E6%8F%B4%E3%81%99%E3%82%8B-00c2b2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="ofuse" />
-        </a>
+          <img src="https://img.shields.io/badge/OFUSE-%E5%BF%9C%E6%8F%B4%E3%81%99%E3%82%8B-00c2b2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="ofuse"></a>
       </p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <picture> <!-- https://github-readme-streak-stats.herokuapp.com/?user=neon-aiart -->
-        <source media="(prefers-color-scheme: dark)" srcset="https://image-cache.neon-aiillust.workers.dev/?url=https://github-readme-streak-stats.herokuapp.com/?user=neon-aiart%26theme=dracula" />
-        <source media="(prefers-color-scheme: light)" srcset="https://image-cache.neon-aiillust.workers.dev/?url=https://github-readme-streak-stats.herokuapp.com/?user=neon-aiart%26theme=buefy" />
-        <img src="https://image-cache.neon-aiillust.workers.dev/?url=https://github-readme-streak-stats.herokuapp.com/?user=neon-aiart%26theme=buefy" alt="neon-stats" />
+      <!-- https://github-readme-streak-stats.herokuapp.com/?user=neon-aiart -->
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://image-cache.neon-aiillust.workers.dev/?url=https://github-readme-streak-stats.herokuapp.com/?user=neon-aiart%26theme=dracula">
+        <source media="(prefers-color-scheme: light)" srcset="https://image-cache.neon-aiillust.workers.dev/?url=https://github-readme-streak-stats.herokuapp.com/?user=neon-aiart%26theme=buefy">
+        <img src="https://image-cache.neon-aiillust.workers.dev/?url=https://github-readme-streak-stats.herokuapp.com/?user=neon-aiart%26theme=buefy" alt="neon-stats">
       </picture>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <picture> <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neon-aiart -->
+      <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neon-aiart -->
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://image-cache.neon-aiillust.workers.dev/?url=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neon-aiart%26theme=dracula">
         <source media="(prefers-color-scheme: light)" srcset="https://image-cache.neon-aiillust.workers.dev/?url=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neon-aiart%26theme=buefy">
-        <img src="https://image-cache.neon-aiillust.workers.dev/?url=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neon-aiart%26theme=buefy" alt="profile-details" />
+        <img src="https://image-cache.neon-aiillust.workers.dev/?url=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neon-aiart%26theme=buefy" alt="profile-details">
       </picture>
-      <br />
-      <picture> <!-- https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neon-aiart -->
+      <br>
+      <!-- https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neon-aiart -->
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://image-cache.neon-aiillust.workers.dev/?url=https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neon-aiart%26theme=dracula">
         <source media="(prefers-color-scheme: light)" srcset="https://image-cache.neon-aiillust.workers.dev/?url=https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neon-aiart%26theme=buefy">
-        <img src="https://image-cache.neon-aiillust.workers.dev/?url=https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neon-aiart%26theme=buefy" alt="profile-status" width="49%" />
+        <img src="https://image-cache.neon-aiillust.workers.dev/?url=https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neon-aiart%26theme=buefy" alt="profile-status" width="49%">
       </picture>
-      <picture> <!-- https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neon-aiart -->
+      <!-- https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neon-aiart -->
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://image-cache.neon-aiillust.workers.dev/?url=https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neon-aiart%26theme=dracula">
         <source media="(prefers-color-scheme: light)" srcset="https://image-cache.neon-aiillust.workers.dev/?url=https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neon-aiart%26theme=buefy">
-        <img src="https://image-cache.neon-aiillust.workers.dev/?url=https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neon-aiart%26theme=buefy" alt="productive-time" width="49%" />
+        <img src="https://image-cache.neon-aiillust.workers.dev/?url=https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neon-aiart%26theme=buefy" alt="productive-time" width="49%">
       </picture>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://snake-or-pacman.neon-aiillust.workers.dev/?theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://snake-or-pacman.neon-aiillust.workers.dev/?theme=light" />
-        <img src="https://snake-or-pacman.neon-aiillust.workers.dev/?theme=light" alt="Contribution Graph" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://snake-or-pacman.neon-aiillust.workers.dev/?theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://snake-or-pacman.neon-aiillust.workers.dev/?theme=light">
+        <img src="https://snake-or-pacman.neon-aiillust.workers.dev/?theme=light" alt="Contribution Graph">
       </picture>
       <!--
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neon-aiart/neon-aiart/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neon-aiart/neon-aiart/output/github-contribution-grid-snake.svg" />
-        <img src="https://image-cache.neon-aiillust.workers.dev/?url=https://raw.githubusercontent.com/neon-aiart/neon-aiart/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neon-aiart/neon-aiart/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neon-aiart/neon-aiart/output/github-contribution-grid-snake.svg">
+        <img src="https://image-cache.neon-aiillust.workers.dev/?url=https://raw.githubusercontent.com/neon-aiart/neon-aiart/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph">
       </picture>
-      <br />
+      <br>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neon-aiart/neon-aiart/output/pacman-contribution-graph-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neon-aiart/neon-aiart/output/pacman-contribution-graph.svg" />
-        <img src="https://raw.githubusercontent.com/neon-aiart/neon-aiart/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neon-aiart/neon-aiart/output/pacman-contribution-graph-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neon-aiart/neon-aiart/output/pacman-contribution-graph.svg">
+        <img src="https://raw.githubusercontent.com/neon-aiart/neon-aiart/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
       </picture>
       -->
     </td>
@@ -149,8 +162,8 @@ An ultimate "Appetite-Stimulating" image generation aid specifically designed fo
 
 ### **🐦 [Chirp Whisper Link](https://github.com/neon-aiart/chirp-whisper-link/)**  
 
-~~YouTube URLや~~ローカルファイルから、Whisperを使って自動で文字起こしするシンプルなColabノートブックです  
-A simple Google Colab notebook to transcribe audio from ~~YouTube URLs or ~~local files using Whisper.  
+**AI×AIのハイブリッド文字起こしの決定版！** WhisperとGeminiを使って、専門用語も逃さず全自動で文字起こしする究極のColabノートブック  
+The Ultimate **AI-to-AI Hybrid Transcription** Tool! A master-class Colab notebook for fully automated transcription that captures every technical term using Whisper and Gemini.  
 
 ### **🔄️ [Bluesky Tokimeki Switcher](https://github.com/neon-aiart/bsky-tokimeki-switcher/)**  
 
