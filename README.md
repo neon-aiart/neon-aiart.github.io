@@ -229,7 +229,7 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 
 ### 📖 **[AIには『最適解』として提示することはできないロジックのお話](https://sizu.me/neon_aiart/posts/tsmbx48v8w56)**  
 
-* **A Logic That AI Cannot Present as an "Optimal Solution"**  
+* **[The Inability of AI to Propose This Logic as the "Optimal Solution"](https://sizu.me/neon_aiart/posts/07no6fbxv7zk)**  
 
 > see also:&nbsp;
 > <a href="#️-history-go-first"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/21a9/512.png" alt="↩️" width="20" height="20" align="center"></a>  
@@ -252,7 +252,7 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 
 ### 📖 **[Gemini×NotebookLMの裏側： 見えるものと見えないもの、正しく使うための攻略法のお話](https://zenn.dev/neon_aiart/articles/0b4ef73b190983)**  
 
-* **Inside the Gemini × NotebookLM Integration: Navigating the Seen, the Unseen, and the "Context Gap"**  
+* **[Inside the Gemini × NotebookLM Integration: Navigating the Seen, the Unseen, and the "Context Gap"](https://zenn.dev/neon_aiart/articles/0b4ef73b190983?locale=en)**  
 
 <!--
 <script src="https://blueskytimeline.com/timeline.js" async data-handle="neon-ai.art" data-theme="gray" data-width="420" data-height="500" data-lang="ja" data-ui="0" data-prof="0" data-pin="1" data-rp="1" data-thread="0" data-id="timeline"></script>
