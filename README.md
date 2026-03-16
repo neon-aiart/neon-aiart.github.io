@@ -227,7 +227,7 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 
 ## 📚 Writing Portfolio  
 
-### 📖 **[AIには『最適解』として提示することはできないロジックのお話](https://sizu.me/neon_aiart/posts/tsmbx48v8w56)**  
+### 📖 **[AIには『最適解』として提示することはできないロジックのお話](https://zenn.dev/neon_aiart/articles/dbc20cde2fb771)**  
 
 * **[The Inability of AI to Propose This Logic as the "Optimal Solution"](https://sizu.me/neon_aiart/posts/07no6fbxv7zk)**  
 
