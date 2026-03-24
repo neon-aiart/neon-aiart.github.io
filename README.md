@@ -236,7 +236,7 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 
 ### 📖 **[声の地政学: GoogleのAI戦略によって排除されたRVCのお話](https://sizu.me/neon_aiart/posts/h57a55dr2edu)**  
 
-* **[The Geopolitics of Voice: RVC Excluded from Google’s AI strategy](https://sizu.me/neon_aiart/posts/h57a55dr2edu?locale=en)**  
+* **[The Geopolitics of Voice: RVC Excluded from Google’s AI strategy](https://zenn.dev/neon_aiart/articles/93200c570232a2?locale=en)**  
 
 > see also:&nbsp;
 > <a href="#-neon-spitch-link"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.png" alt="💬" width="20" height="20" align="center"></a>&nbsp;
