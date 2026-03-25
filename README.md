@@ -256,7 +256,7 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 
 ### 📖 **[人を騙すAIの裏側： 〝忖度させないためのプロンプト〟は存在しない理由のお話](https://zenn.dev/neon_aiart/articles/fdc53d92d4febf)**  
 
-* **Inside the Deceptive Nature of AI: The Logic of the Non-Existence of "Anti-Sycophancy Prompts"**  
+* **[Inside the Deceptive Nature of AI: The Logic of the Non-Existence of "Anti-Sycophancy Prompts"](https://zenn.dev/neon_aiart/articles/fdc53d92d4febf?locale=en)**  
 
 <!--
 <script src="https://blueskytimeline.com/timeline.js" async data-handle="neon-ai.art" data-theme="gray" data-width="420" data-height="500" data-lang="ja" data-ui="0" data-prof="0" data-pin="1" data-rp="1" data-thread="0" data-id="timeline"></script>
