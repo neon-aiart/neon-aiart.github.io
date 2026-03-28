@@ -46,7 +46,7 @@
           <img src="https://random-image.neon-aiillust.workers.dev/" style="max-height: 480px; width: 100%; height: auto; object-fit: contain;" alt="Random AI Art"><br>
           click to camo purge and refresh</a>
         <br>
-        24 images and 4 GIFs at random
+        25 images and 4 GIFs at random
       </div>
       <h2></h2>
       <p align="right">
