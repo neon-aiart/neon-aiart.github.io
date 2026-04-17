@@ -139,9 +139,9 @@
 **Automatically read AI conversations.** The world's only UserScript that uses VOICEVOX/RVC for free without APIs or Python servers.  
 
 > see also:&nbsp;
-> <a href="#-spitch-omakase-connect"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f363/512.png" alt="🍣" width="20" height="20" align="center"></a>&nbsp;
-> <a href="#-声の地政学-googleのai戦略によって排除されたrvcのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" width="20" height="20" align="center"></a>&nbsp;
-> <a href="https://youtu.be/SFSfAoHYki0"><img src="https://www.google.com/s2/favicons?domain=youtu.be&size=32" alt="YouTube" width="20" height="20" align="center"></a>  
+  <a href="#-spitch-omakase-connect"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f363/512.png" alt="🍣" height="20" align="center"></a>&thinsp;
+  <a href="#-声の地政学-googleのai戦略によって排除されたrvcのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" height="20" align="center"></a>&thinsp;
+  <a href="https://youtu.be/SFSfAoHYki0"><img src="https://www.google.com/s2/favicons?domain=youtu.be&size=32" alt="YouTube" height="20" align="center"></a>  
 
 ### **🐥 [Figure AIart Maker](https://github.com/neon-aiart/figure-aiart-maker/)**  
 
@@ -149,7 +149,7 @@
 **An image generation aid for Gemini Canvas.** Converts uploaded images into high-quality figure-style AI illustrations.  
 
 > see also:&nbsp;
-> <a href="#-gemini-canvasの裏側-消えたモデルと残った専用モデルそして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" width="20" height="20" align="center"></a>  
+  <a href="#-gemini-canvasの裏側-消えたモデルと残った専用モデルそして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" height="20" align="center"></a>  
 
 ### **🍽️ [Meshi AIart Maker](https://github.com/neon-aiart/meshi-art-maker/)**  
 
@@ -157,8 +157,8 @@
 An ultimate "Appetite-Stimulating" image generation aid specifically designed for the **Google Gemini Canvas environment**.  
 
 > see also:&nbsp;
-> <a href="#-gemini-canvasの裏側-消えたモデルと残った専用モデルそして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" width="20" height="20" align="center"></a>&nbsp;
-> <a href="https://youtu.be/8zejiDRTeWk"><img src="https://www.google.com/s2/favicons?domain=youtu.be&size=32" alt="YouTube" width="20" height="20" align="center"></a>  
+  <a href="#-gemini-canvasの裏側-消えたモデルと残った専用モデルそして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" height="20" align="center"></a>&thinsp;
+  <a href="https://youtu.be/8zejiDRTeWk"><img src="https://www.google.com/s2/favicons?domain=youtu.be&size=32" alt="YouTube" height="20" align="center"></a>  
 
 ### **🐦 [Chirp Whisper Link](https://github.com/neon-aiart/chirp-whisper-link/)**  
 
@@ -201,7 +201,7 @@ A specialized UserScript for "Tokimeki" to **instantly copy "Invariable Links (D
 A UserScript that **navigates back to the very first page** of the browser history in one go.  
 
 > see also:&nbsp;
-> <a href="#-aiには最適解として提示することはできないロジックのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" width="20" height="20" align="center"></a>  
+  <a href="#-aiには最適解として提示することはできないロジックのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" height="20" align="center"></a>  
 
 ### **💾 [HTML Source Downloader](https://github.com/neon-aiart/html-source-downloader/)**  
 
@@ -214,8 +214,8 @@ GoogleColabでVOICEVOXとRVCの環境構築
 Setup VOICEVOX & RVC on Google Colab.  
 
 > see also:&nbsp;
-> <a href="#-neon-spitch-link"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.png" alt="💬" width="20" height="20" align="center"></a>&nbsp;
-> <a href="#-声の地政学-googleのai戦略によって排除されたrvcのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" width="20" height="20" align="center"></a>  
+  <a href="#-neon-spitch-link"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.png" alt="💬" height="20" align="center"></a>&thinsp;
+  <a href="#-声の地政学-googleのai戦略によって排除されたrvcのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" height="20" align="center"></a>  
 
 <!--
 ### **📺 [TVer Click to Play](https://github.com/neon-aiart/tver-click-to-play/)**
@@ -232,23 +232,23 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 * **[The Inability of AI to Propose This Logic as the "Optimal Solution"](https://sizu.me/neon_aiart/posts/07no6fbxv7zk)**  
 
 > see also:&nbsp;
-> <a href="#️-history-go-first"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/21a9/512.png" alt="↩️" width="20" height="20" align="center"></a>  
+  <a href="#️-history-go-first"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/21a9/512.png" alt="↩️" height="20" align="center"></a>  
 
 ### 📖 **[声の地政学: GoogleのAI戦略によって排除されたRVCのお話](https://sizu.me/neon_aiart/posts/h57a55dr2edu)**  
 
 * **[The Geopolitics of Voice: RVC Excluded from Google’s AI strategy](https://zenn.dev/neon_aiart/articles/93200c570232a2?locale=en)**  
 
 > see also:&nbsp;
-> <a href="#-neon-spitch-link"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.png" alt="💬" width="20" height="20" align="center"></a>&nbsp;
-> <a href="#-spitch-omakase-connect"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f363/512.png" alt="🍣" width="20" height="20" align="center"></a>  
+  <a href="#-neon-spitch-link"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.png" alt="💬" height="20" align="center"></a>&thinsp;
+  <a href="#-spitch-omakase-connect"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f363/512.png" alt="🍣" height="20" align="center"></a>  
 
 ### 📖 **[Gemini Canvasの裏側： 消えたモデルと、残った専用モデル、そして非公表の新モデルのお話](https://zenn.dev/neon_aiart/articles/2fa4ec63993817)**  
 
 * **[Inside the Gemini Canvas: Disappearing Models, Surviving Dedicated Models, and the Unannounced New Generation](https://zenn.dev/neon_aiart/articles/2fa4ec63993817?locale=en)**  
 
 > see also:&nbsp;
-> <a href="#-figure-aiart-maker"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f425/512.png" alt="🐥" width="20" height="20" align="center"></a>&nbsp;
-> <a href="#️-meshi-aiart-maker"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37d/512.png" alt="🍽️" width="20" height="20" align="center"></a>  
+  <a href="#-figure-aiart-maker"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f425/512.png" alt="🐥" height="20" align="center"></a>&thinsp;
+  <a href="#️-meshi-aiart-maker"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37d/512.png" alt="🍽️" height="20" align="center"></a>  
 
 ### 📖 **[Gemini×NotebookLMの裏側： 見えるものと見えないもの、正しく使うための攻略法のお話](https://zenn.dev/neon_aiart/articles/0b4ef73b190983)**  
 
