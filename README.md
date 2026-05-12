@@ -135,7 +135,7 @@
 
 ### **💬 [Neon Spitch Link](https://github.com/neon-aiart/neon-spitch-link/)**  
 
-**AIとの会話を好きな声で自動読み上げ。** APIやサーバー不要で、VOICEVOXやRVCを無料で利用できる世界唯一のUserScript。  
+**AIとの会話を好きな声で自動読み上げ**: APIやサーバー不要で、VOICEVOXやRVCを無料で利用できる世界唯一のUserScript  
 **Automatically read AI conversations.** The world's only UserScript that uses VOICEVOX/RVC for free without APIs or Python servers.  
 
 > see also:&nbsp;
@@ -146,7 +146,7 @@
 
 ### **🐥 [Figure AIart Maker](https://github.com/neon-aiart/figure-aiart-maker/)**  
 
-**Gemini Canvas専用の画像生成補助アプリ。** アップロードするだけで、高品質なフィギュア風イラストに変換します。  
+**Gemini Canvas専用の画像生成補助アプリ**: アップロードするだけで、高品質なフィギュア風イラストに変換します  
 **An image generation aid for Gemini Canvas.** Converts uploaded images into high-quality figure-style AI illustrations.  
 
 > see also:&nbsp;
@@ -154,7 +154,7 @@
 
 ### **🍽️ [Meshi AIart Maker](https://github.com/neon-aiart/meshi-art-maker/)**  
 
-**Gemini Canvas専用の画像生成補助アプリ。** ワンクリックで、究極の「飯テロ」画像が生成できます。  
+**Gemini Canvas専用の画像生成補助アプリ**: ワンクリックで、究極の「飯テロ」画像が生成できます  
 An ultimate "Appetite-Stimulating" image generation aid specifically designed for the **Google Gemini Canvas environment**.  
 
 > see also:&nbsp;
@@ -168,37 +168,42 @@ The Ultimate **AI-to-AI Hybrid Transcription** Tool! A master-class Colab notebo
 
 ### **🔄️ [Bluesky Tokimeki Switcher](https://github.com/neon-aiart/bsky-tokimeki-switcher/)**  
 
-**BSKY ⇔ Tokimeki 切り替え。** URLをボタンやショートカットで瞬時に切り替えるUserScript。  
+**BSKY ⇔ Tokimeki 切り替え**: URLをボタンやショートカットで瞬時に切り替えるUserScript  
 A UserScript to instantly **switch between Bluesky and Tokimeki URLs** via buttons or shortcuts.  
 
 ### **⚖️ [Bsky Follower Comparer](https://github.com/neon-aiart/bsky-follower-comparer/)**  
 
-**Blueskyフォロワー比較ツール。** ログイン不要。最大３つのアカウントの共通点や差異を抽出します。  
+**Blueskyフォロワー比較ツール**: ログイン不要、最大３つのアカウントの共通点や差異を抽出します  
 **A tool to compare followers** of multiple accounts (up to 3) and extract commonalities/differences without logging in.  
 
 ### **📝 [Universal ALT Text Viewer](https://github.com/neon-aiart/universal-alt-text-viewer/)**  
 
-**画像や動画のALTテキストを可視化。** マウスホバーだけで瞬時に表示し、ワンクリックでコピーするUserScriptです。  
+**画像や動画のALTテキストを可視化**: マウスホバーだけで瞬時に表示し、ワンクリックでコピーするUserScriptです  
 This UserScript **instantly displays ALT text for images and videos** with just a hover, and allows for one-click copying.  
 
 ### **🌈 [Tokimeki MediaView Fix Plus](https://github.com/neon-aiart/tokimeki-media-view-fix/)**  
 
-**Tokimekiの操作性を劇的に改善。** メディアビューのクリック修復に加え、通知欄のメディアプレビューや高度なキーボード操作を追加します。  
+**Tokimekiの操作性を劇的に改善**: メディアビューのクリック修復に加え、通知欄のメディアプレビューや高度なキーボード操作を追加します  
 **Fixes Tokimeki's MediaView,** adds media previews to the notification column, and enables full keyboard-driven interactions.  
 
 ### **📋 [Tokimeki DID Copy Plus](https://github.com/neon-aiart/tokimeki-did-copy-plus/)**  
 
-**不変のプロフィールリンクを瞬時に取得。** ハンドルの変更に左右されない「DIDベースのURL」をコピーし、アクセシビリティも向上させます。  
+**不変のプロフィールリンクを瞬時に取得**: ハンドルの変更に左右されない「DIDベースのURL」をコピーし、アクセシビリティも向上させます  
 A specialized UserScript for "Tokimeki" to **instantly copy "Invariable Links (DID-based URLs)"** and enhance accessibility.  
 
 ### **🏷️ [Auto Tags Filler for chichi-pui & iromirai](https://github.com/neon-aiart/auto-tags-filler/)**  
 
-**AIイラスト投稿サイトのタグ入力を自動化。** テンプレート化したタグをワンクリックで入力・確定し、投稿の手間を大幅に削減します。  
+**AIイラスト投稿サイトのタグ入力を自動化**: テンプレート化したタグをワンクリックで入力・確定し、投稿の手間を大幅に削減します  
 **Automates tag entry for AI illustration sites** like Chichi-pui and Iromirai. Save templates and fill/confirm tags with a single click.  
+
+### **📆 [YouTube Community Exact Date & Time](https://github.com/neon-aiart/youtube-community-exact-date-time)**  
+
+YouTubeのコミュニティ投稿における「1 か月前」といった曖昧な日時表示を、ソースコードから取得した正確な日時（秒単位）に書き換えるUserScriptです  
+Fetch and display exact timestamps (YYYY/MM/DD HH:mm:ss) for YouTube Community posts.  
 
 ### **↩️ [History Go First](https://github.com/neon-aiart/history-go-first/)**  
 
-**履歴の最初へ一気に戻る。** ブラウザの履歴を遡り、最初に開いたページまで瞬時に戻ります。  
+**履歴の最初へ一気に戻る**: ブラウザの履歴を遡り、最初に開いたページまで瞬時に戻ります  
 A UserScript that **navigates back to the very first page** of the browser history in one go.  
 
 > see also:&nbsp;
@@ -206,7 +211,7 @@ A UserScript that **navigates back to the very first page** of the browser histo
 
 ### **💾 [HTML Source Downloader](https://github.com/neon-aiart/html-source-downloader/)**  
 
-**Webページのソースを文字化けせず保存。** HTMLソースコードを、UTF-8形式で安全にローカルへ保存できるUserScriptです。  
+**Webページのソースを文字化けせず保存**: HTMLソースコードを、UTF-8形式で安全にローカルへ保存できるUserScriptです  
 A UserScript to save **the HTML source code of web pages** in UTF-8 format without character encoding issues.  
 
 ### **🍣 [Spitch Omakase Connect](https://github.com/neon-aiart/spitch-omakase-connect/)**  
@@ -220,7 +225,7 @@ Setup VOICEVOX & RVC on Google Colab.
 
 <!--
 ### **📺 [TVer Click to Play](https://github.com/neon-aiart/tver-click-to-play/)**
-**TVerの動画自動再生を防止。** ページを開いた際に動画が勝手に流れ出すのを防ぎ、自分のタイミングで再生を開始できます。  
+**TVerの動画自動再生を防止**: ページを開いた際に動画が勝手に流れ出すのを防ぎ、自分のタイミングで再生を開始できます  
 A simple script that **prevents videos from auto-playing when opening a TVer episode page,** allowing you to play at your convenience.  
 -->
 
@@ -261,7 +266,7 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 
 ### 📖 **[RVCのBase64を送っても動かない問題を解決したお話: AIに好きな声を与える方法](https://zenn.dev/neon_aiart/articles/b033819515f006)**  
 
-* **Architecture of Fileless RVC Integration: Overcoming Base64 Handling Constraints in Gradio API**  
+* **[Architecture of Fileless RVC Integration: Overcoming Base64 Handling Constraints in Gradio API](https://zenn.dev/neon_aiart/articles/b033819515f006?locale=en)**  
 
 > see also:&nbsp;
   <a href="#-neon-spitch-link"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.png" alt="💬" height="20" align="center"></a>
