@@ -39,6 +39,13 @@
       &thinsp;
       <a href="https://greasyfork.org/ja/users/1494762">
         <img src="https://img.shields.io/badge/Greasymonkey-Userscript-f0ad4e?style=for-the-badge&logo=javascript&logoColor=black" height="28"  alt="greasymonkey"></a>
+      <br>
+      <a href="https://x.com/neon_ai_art" target="_blank">
+        <img src="https://img.shields.io/badge/X_(旧Twitter)-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+      &thinsp;
+      <a href="https://www.youtube.com/channel/UCocqxO4MOFgMZd7IbfEmM0A/" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
+      <br>
     </td>
     <td align="center" valign="top" width="380" rowspan="3">
       <div style="height: 100%;">
@@ -166,6 +173,11 @@ An ultimate "Appetite-Stimulating" image generation aid specifically designed fo
 **AI×AIのハイブリッド文字起こしの決定版！** WhisperとGeminiを使って、専門用語も逃さず全自動で文字起こしする究極のColabノートブック  
 The Ultimate **AI-to-AI Hybrid Transcription** Tool! A master-class Colab notebook for fully automated transcription that captures every technical term using Whisper and Gemini.  
 
+### **📆 [YouTube Community Exact Date & Time](https://github.com/neon-aiart/youtube-community-exact-date-time)**  
+
+YouTubeのコミュニティ投稿における「○か月前」といった曖昧な日時表示を、ソースコードから取得した正確な日時（秒単位）に書き換えるUserScriptです  
+Fetch and display exact timestamps (YYYY/MM/DD HH:mm:ss) for YouTube Community posts.  
+
 ### **🔄️ [Bluesky Tokimeki Switcher](https://github.com/neon-aiart/bsky-tokimeki-switcher/)**  
 
 **BSKY ⇔ Tokimeki 切り替え**: URLをボタンやショートカットで瞬時に切り替えるUserScript  
@@ -195,11 +207,6 @@ A specialized UserScript for "Tokimeki" to **instantly copy "Invariable Links (D
 
 **AIイラスト投稿サイトのタグ入力を自動化**: テンプレート化したタグをワンクリックで入力・確定し、投稿の手間を大幅に削減します  
 **Automates tag entry for AI illustration sites** like Chichi-pui and Iromirai. Save templates and fill/confirm tags with a single click.  
-
-### **📆 [YouTube Community Exact Date & Time](https://github.com/neon-aiart/youtube-community-exact-date-time)**  
-
-YouTubeのコミュニティ投稿における「1 か月前」といった曖昧な日時表示を、ソースコードから取得した正確な日時（秒単位）に書き換えるUserScriptです  
-Fetch and display exact timestamps (YYYY/MM/DD HH:mm:ss) for YouTube Community posts.  
 
 ### **↩️ [History Go First](https://github.com/neon-aiart/history-go-first/)**  
 
