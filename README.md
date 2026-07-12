@@ -193,7 +193,7 @@ A UserScript to instantly **switch between Bluesky and Tokimeki URLs** via butto
 **画像や動画のALTテキストを可視化**: マウスホバーだけで瞬時に表示し、ワンクリックでコピーするUserScriptです  
 This UserScript **instantly displays ALT text for images and videos** with just a hover, and allows for one-click copying.  
 
-### **🌈 [Tokimeki MediaView Fix Plus](https://github.com/neon-aiart/tokimeki-media-view-fix/)**  
+### **✨ [TOKIMEKI Sparkle Enhancer](https://github.com/neon-aiart/tokimeki-sparkle-enhancer/)**  
 
 **Tokimekiの操作性を劇的に改善**: メディアビューのクリック修復に加え、通知欄のメディアプレビューや高度なキーボード操作を追加します  
 **Fixes Tokimeki's MediaView,** adds media previews to the notification column, and enables full keyboard-driven interactions.  
