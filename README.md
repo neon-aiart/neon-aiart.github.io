@@ -173,7 +173,7 @@ An ultimate "Appetite-Stimulating" image generation aid specifically designed fo
 **AI×AIのハイブリッド文字起こしの決定版！** WhisperとGeminiを使って、専門用語も逃さず全自動で文字起こしする究極のColabノートブック  
 The Ultimate **AI-to-AI Hybrid Transcription** Tool! A master-class Colab notebook for fully automated transcription that captures every technical term using Whisper and Gemini.  
 
-### **📆 [YouTube Community Exact Date & Time](https://github.com/neon-aiart/youtube-community-exact-date-time)**  
+### **⚡ [YouTube Community Exact Date & Time](https://github.com/neon-aiart/youtube-community-exact-date-time)**  
 
 YouTubeのコミュニティ投稿における「○か月前」といった曖昧な日時表示を、ソースコードから取得した正確な日時（秒単位）に書き換えるUserScriptです  
 Fetch and display exact timestamps (YYYY/MM/DD HH:mm:ss) for YouTube Community posts.  
