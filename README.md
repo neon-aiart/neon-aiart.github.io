@@ -195,8 +195,8 @@ This UserScript **instantly displays ALT text for images and videos** with just 
 
 ### **✨ [TOKIMEKI Sparkle Enhancer](https://github.com/neon-aiart/tokimeki-sparkle-enhancer/)**  
 
-**Tokimekiの操作性を劇的に改善**: メディアビューのクリック修復に加え、通知欄のメディアプレビューや高度なキーボード操作を追加します  
-**Fixes Tokimeki's MediaView,** adds media previews to the notification column, and enables full keyboard-driven interactions.  
+TOKIMEKIの「メディアビュー（画像表示）」や「予約投稿一覧」をより快適に、もっとキラキラに拡張するためのUserScriptです  
+TOKIMEKI Sparkle Enhancer is a Tampermonkey userscript designed to expand and elevate your TOKIMEKI experience, focused on bringing extra sparkle and comfort to your "Media View (Image Viewer)" and "Scheduled Posts."  
 
 ### **📋 [Tokimeki DID Copy Plus](https://github.com/neon-aiart/tokimeki-did-copy-plus/)**  
 
