@@ -151,6 +151,21 @@
   <a href="#-RVCのBase64を送っても動かない問題を解決したお話-AIに好きな声を与える方法"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" height="20" align="center"></a>&thinsp;
   <a href="https://youtu.be/SFSfAoHYki0"><img src="https://www.google.com/s2/favicons?domain=youtu.be&size=32" alt="YouTube" height="20" align="center"></a>  
 
+### **🏖 [DataView Image Gallery](https://github.com/neon-aiart/dataview-image-gallery)**  
+
+Obsidianのノート内に、プラグイン級の高機能な画像ギャラリーを構築できるDataviewJSスクリプトです  
+A plugin-grade, feature-rich image gallery script for Obsidian built with DataviewJS.  
+
+### **⚡ [YouTube Community Exact Date & Time](https://github.com/neon-aiart/youtube-community-exact-date-time)**  
+
+YouTubeのコミュニティ投稿における「○か月前」といった曖昧な日時表示を、ソースコードから取得した正確な日時（秒単位）に書き換えるUserScriptです  
+Fetch and display exact timestamps (YYYY/MM/DD HH:mm:ss) for YouTube Community posts.  
+
+### **🐦 [Chirp Whisper Link](https://github.com/neon-aiart/chirp-whisper-link/)**  
+
+**AI×AIのハイブリッド文字起こしの決定版！** WhisperとGeminiを使って、専門用語も逃さず全自動で文字起こしする究極のColabノートブック  
+The Ultimate **AI-to-AI Hybrid Transcription** Tool! A master-class Colab notebook for fully automated transcription that captures every technical term using Whisper and Gemini.  
+
 ### **🐥 [Figure AIart Maker](https://github.com/neon-aiart/figure-aiart-maker/)**  
 
 **Gemini Canvas専用の画像生成補助アプリ**: アップロードするだけで、高品質なフィギュア風イラストに変換します  
@@ -167,16 +182,6 @@ An ultimate "Appetite-Stimulating" image generation aid specifically designed fo
 > see also:&nbsp;
   <a href="#-gemini-canvasの裏側-消えたモデルと残った専用モデルそして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" height="20" align="center"></a>&thinsp;
   <a href="https://youtu.be/8zejiDRTeWk"><img src="https://www.google.com/s2/favicons?domain=youtu.be&size=32" alt="YouTube" height="20" align="center"></a>  
-
-### **🐦 [Chirp Whisper Link](https://github.com/neon-aiart/chirp-whisper-link/)**  
-
-**AI×AIのハイブリッド文字起こしの決定版！** WhisperとGeminiを使って、専門用語も逃さず全自動で文字起こしする究極のColabノートブック  
-The Ultimate **AI-to-AI Hybrid Transcription** Tool! A master-class Colab notebook for fully automated transcription that captures every technical term using Whisper and Gemini.  
-
-### **⚡ [YouTube Community Exact Date & Time](https://github.com/neon-aiart/youtube-community-exact-date-time)**  
-
-YouTubeのコミュニティ投稿における「○か月前」といった曖昧な日時表示を、ソースコードから取得した正確な日時（秒単位）に書き換えるUserScriptです  
-Fetch and display exact timestamps (YYYY/MM/DD HH:mm:ss) for YouTube Community posts.  
 
 ### **🔄️ [Bluesky Tokimeki Switcher](https://github.com/neon-aiart/bsky-tokimeki-switcher/)**  
 
