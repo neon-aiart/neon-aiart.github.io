@@ -283,6 +283,14 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 > see also:&nbsp;
   <a href="#-neon-spitch-link"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.png" alt="💬" height="20" align="center"></a>
 
+### 📖 **[kohya_ssに完了時に通知音を鳴らすコードを追加したお話](https://zenn.dev/neon_aiart/articles/bd815213f168f5)**  
+
+* **[Adding a Completion Notification Sound to kohya_ss](https://zenn.dev/neon_aiart/articles/bd815213f168f5?locale=en)**  
+
+### 📖 **[OneTrainerに完了時に通知音を鳴らすコードを追加したお話](https://zenn.dev/neon_aiart/articles/6775c72d1b165b)**  
+
+* **[Adding a Completion Notification Sound to OneTrainer](https://zenn.dev/neon_aiart/articles/6775c72d1b165b?locale=en)**  
+
 <!--
 <script src="https://blueskytimeline.com/timeline.js" async data-handle="neon-ai.art" data-theme="gray" data-width="420" data-height="500" data-lang="ja" data-ui="0" data-prof="0" data-pin="1" data-rp="1" data-thread="0" data-id="timeline"></script>
 -->
