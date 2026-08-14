@@ -143,6 +143,7 @@
 ### **💬 [Neon Spitch Link](https://github.com/neon-aiart/neon-spitch-link/)**  
 
 **AIとの会話を好きな声で自動読み上げ**: APIやサーバー不要で、VOICEVOXやRVCを無料で利用できる世界唯一のUserScript  
+
 **Automatically read AI conversations.** The world's only UserScript that uses VOICEVOX/RVC for free without APIs or Python servers.  
 
 > see also:&nbsp;
@@ -153,22 +154,26 @@
 
 ### **🏖 [DataView Image Gallery](https://github.com/neon-aiart/dataview-image-gallery)**  
 
-Obsidianのノート内に、プラグイン級の高機能な画像ギャラリーを構築できるDataviewJSスクリプトです  
+Obsidianのノート内に、プラグイン級の高機能な画像ギャラリーを構築できるDataviewJSスクリプト  
+
 A plugin-grade, feature-rich image gallery script for Obsidian built with DataviewJS.  
 
 ### **⚡ [YouTube Community Exact Date & Time](https://github.com/neon-aiart/youtube-community-exact-date-time)**  
 
-YouTubeのコミュニティ投稿における「○か月前」といった曖昧な日時表示を、ソースコードから取得した正確な日時（秒単位）に書き換えるUserScriptです  
+YouTubeのコミュニティ投稿における「○か月前」といった曖昧な日時表示を、ソースコードから取得した正確な日時（秒単位）に書き換えるUserScript  
+
 Fetch and display exact timestamps (YYYY/MM/DD HH:mm:ss) for YouTube Community posts.  
 
 ### **🐦 [Chirp Whisper Link](https://github.com/neon-aiart/chirp-whisper-link/)**  
 
 **AI×AIのハイブリッド文字起こしの決定版！** WhisperとGeminiを使って、専門用語も逃さず全自動で文字起こしする究極のColabノートブック  
+
 The Ultimate **AI-to-AI Hybrid Transcription** Tool! A master-class Colab notebook for fully automated transcription that captures every technical term using Whisper and Gemini.  
 
 ### **🐥 [Figure AIart Maker](https://github.com/neon-aiart/figure-aiart-maker/)**  
 
 **Gemini Canvas専用の画像生成補助アプリ**: アップロードするだけで、高品質なフィギュア風イラストに変換します  
+
 **An image generation aid for Gemini Canvas.** Converts uploaded images into high-quality figure-style AI illustrations.  
 
 > see also:&nbsp;
@@ -177,6 +182,7 @@ The Ultimate **AI-to-AI Hybrid Transcription** Tool! A master-class Colab notebo
 ### **🍽️ [Meshi AIart Maker](https://github.com/neon-aiart/meshi-aiart-maker/)**  
 
 **Gemini Canvas専用の画像生成補助アプリ**: ワンクリックで、究極の「飯テロ」画像が生成できます  
+
 An ultimate "Appetite-Stimulating" image generation aid specifically designed for the **Google Gemini Canvas environment**.  
 
 > see also:&nbsp;
@@ -186,36 +192,49 @@ An ultimate "Appetite-Stimulating" image generation aid specifically designed fo
 ### **🔄️ [Bluesky Tokimeki Switcher](https://github.com/neon-aiart/bsky-tokimeki-switcher/)**  
 
 **BSKY ⇔ Tokimeki 切り替え**: URLをボタンやショートカットで瞬時に切り替えるUserScript  
+
 A UserScript to instantly **switch between Bluesky and Tokimeki URLs** via buttons or shortcuts.  
 
 ### **⚖️ [Bsky Follower Comparer](https://github.com/neon-aiart/bsky-follower-comparer/)**  
 
 **Blueskyフォロワー比較ツール**: ログイン不要、最大３つのアカウントの共通点や差異を抽出します  
+
 **A tool to compare followers** of multiple accounts (up to 3) and extract commonalities/differences without logging in.  
 
 ### **📝 [Universal ALT Text Viewer](https://github.com/neon-aiart/universal-alt-text-viewer/)**  
 
 **画像や動画のALTテキストを可視化**: マウスホバーだけで瞬時に表示し、ワンクリックでコピーするUserScriptです  
+
 This UserScript **instantly displays ALT text for images and videos** with just a hover, and allows for one-click copying.  
 
 ### **✨ [TOKIMEKI Sparkle Enhancer](https://github.com/neon-aiart/tokimeki-sparkle-enhancer/)**  
 
-TOKIMEKIの「メディアビュー（画像表示）」や「予約投稿一覧」をより快適に、もっとキラキラに拡張するためのUserScriptです  
+TOKIMEKIの「メディアビュー（画像表示）」や「予約投稿一覧」をより快適に、もっとキラキラに拡張するためのUserScript  
+
 TOKIMEKI Sparkle Enhancer is a Tampermonkey userscript designed to expand and elevate your TOKIMEKI experience, focused on bringing extra sparkle and comfort to your "Media View (Image Viewer)" and "Scheduled Posts."  
+
+### **🥞 [TOKIMEKI Hyperlink Rich Paste](https://github.com/neon-aiart/x-clean-copy-link/)**  
+
+[TOKIMEKI](https://tokimeki.blue/) の投稿文入力エリアへテキストをペーストする際、ハイパーリンク（アンカータグ `<a>`）をプレーンテキストに変換されることなく、リンクを維持したまま貼り付けする UserScript  
+
+A UserScript that preserves hyperlinks (anchor tags `<a>`) when pasting text into the post input area of [TOKIMEKI](https://tokimeki.blue/), preventing them from being converted to plain text.  
 
 ### **📋 [Tokimeki DID Copy Plus](https://github.com/neon-aiart/tokimeki-did-copy-plus/)**  
 
 **不変のプロフィールリンクを瞬時に取得**: ハンドルの変更に左右されない「DIDベースのURL」をコピーし、アクセシビリティも向上させます  
+
 A specialized UserScript for "Tokimeki" to **instantly copy "Invariable Links (DID-based URLs)"** and enhance accessibility.  
 
 ### **🏷️ [Auto Tags Filler for chichi-pui & iromirai](https://github.com/neon-aiart/auto-tags-filler/)**  
 
 **AIイラスト投稿サイトのタグ入力を自動化**: テンプレート化したタグをワンクリックで入力・確定し、投稿の手間を大幅に削減します  
+
 **Automates tag entry for AI illustration sites** like Chichi-pui and Iromirai. Save templates and fill/confirm tags with a single click.  
 
 ### **↩️ [History Go First](https://github.com/neon-aiart/history-go-first/)**  
 
 **履歴の最初へ一気に戻る**: ブラウザの履歴を遡り、最初に開いたページまで瞬時に戻ります  
+
 A UserScript that **navigates back to the very first page** of the browser history in one go.  
 
 > see also:&nbsp;
@@ -224,11 +243,19 @@ A UserScript that **navigates back to the very first page** of the browser histo
 ### **💾 [HTML Source Downloader](https://github.com/neon-aiart/html-source-downloader/)**  
 
 **Webページのソースを文字化けせず保存**: HTMLソースコードを、UTF-8形式で安全にローカルへ保存できるUserScriptです  
+
 A UserScript to save **the HTML source code of web pages** in UTF-8 format without character encoding issues.  
+
+### **🔗 [X Clean Copy Link](https://github.com/neon-aiart/x-clean-copy-link/)**  
+
+X（Twitter）で「リンクをコピー」した際につく余計なトラッキングパラメータ（`?s=20` や `?t=...` 等）を自動でカットするUserScriptです  
+
+A UserScript that automatically removes unnecessary tracking parameters (e.g., `?s=20`, `?t=...`) when you copy links on X (Twitter).  
 
 ### **🍣 [Spitch Omakase Connect](https://github.com/neon-aiart/spitch-omakase-connect/)**  
 
 GoogleColabでVOICEVOXとRVCの環境構築  
+
 Setup VOICEVOX & RVC on Google Colab.  
 
 > see also:&nbsp;
