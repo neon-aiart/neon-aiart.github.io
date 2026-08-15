@@ -213,7 +213,7 @@ TOKIMEKIの「メディアビュー（画像表示）」や「予約投稿一覧
 
 TOKIMEKI Sparkle Enhancer is a Tampermonkey userscript designed to expand and elevate your TOKIMEKI experience, focused on bringing extra sparkle and comfort to your "Media View (Image Viewer)" and "Scheduled Posts."  
 
-### **🥞 [TOKIMEKI Hyperlink Rich Paste](https://github.com/neon-aiart/x-clean-copy-link/)**  
+### **🥞 [TOKIMEKI Hyperlink Rich Paste](https://github.com/neon-aiart/tokimeki-hyperlink-rich-paste/)**  
 
 [TOKIMEKI](https://tokimeki.blue/) の投稿文入力エリアへテキストをペーストする際、ハイパーリンク（アンカータグ `<a>`）をプレーンテキストに変換されることなく、リンクを維持したまま貼り付けする UserScript  
 
