@@ -179,6 +179,7 @@ The Ultimate **AI-to-AI Hybrid Transcription** Tool! A master-class Colab notebo
 > see also:&nbsp;
   <a href="#-gemini-canvasの裏側-消えたモデルと残った専用モデルそして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" height="20" align="center"></a>  
 
+<!--
 ### **🍽️ [Meshi AIart Maker](https://github.com/neon-aiart/meshi-aiart-maker/)**  
 
 **Gemini Canvas専用の画像生成補助アプリ**: ワンクリックで、究極の「飯テロ」画像が生成できます  
@@ -188,6 +189,7 @@ An ultimate "Appetite-Stimulating" image generation aid specifically designed fo
 > see also:&nbsp;
   <a href="#-gemini-canvasの裏側-消えたモデルと残った専用モデルそして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" height="20" align="center"></a>&thinsp;
   <a href="https://youtu.be/8zejiDRTeWk"><img src="https://www.google.com/s2/favicons?domain=youtu.be&size=32" alt="YouTube" height="20" align="center"></a>  
+-->
 
 ### **🔄️ [Bluesky Tokimeki Switcher](https://github.com/neon-aiart/bsky-tokimeki-switcher/)**  
 
