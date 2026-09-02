@@ -252,7 +252,7 @@ A UserScript that **navigates back to the very first page** of the browser histo
 
 A UserScript to save **the HTML source code of web pages** in UTF-8 format without character encoding issues.  
 
-### **🧼 [X Clean Copy Link](https://github.com/neon-aiart/x-clean-copy-link)**  
+### **🧼 [X & YouTube Clean Copy Link](https://github.com/neon-aiart/x-clean-copy-link)**  
 
 X（Twitter）やYouTubeで「リンクをコピー」した際につく余計なトラッキングパラメータ（`?s=20`, `?t=...`, `?si=...` 等）を自動でカットするUserScriptです  
 
