@@ -57,6 +57,10 @@
       </div>
       <h2></h2>
       <p align="right">
+        Gacha: <br>
+        <a href="https://neon.artria-ai.com/">
+          <img src="https://img.shields.io/badge/Artria-%E3%82%AC%E3%83%81%E3%83%A3-a48bed?style=for-the-badge&logo=data:image/webp;base64,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&logoColor=white" alt="Artria"></a>
+        <br>
         DevLog: <br>
         <a href="https://zenn.dev/neon_aiart">
           <img src="https://img.shields.io/badge/Zenn-Dev-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"></a>
@@ -140,7 +144,7 @@
 
 ## 🎀 Projects Showcase 🎀  
 
-### **💬 [Neon Spitch Link](https://github.com/neon-aiart/neon-spitch-link/)**  
+### **💬 [Neon Spitch Link](https://github.com/neon-aiart/neon-spitch-link)**  
 
 **AIとの会話を好きな声で自動読み上げ**: APIやサーバー不要で、VOICEVOXやRVCを無料で利用できる世界唯一のUserScript  
 
@@ -152,7 +156,7 @@
   <a href="#-RVCのBase64を送っても動かない問題を解決したお話-AIに好きな声を与える方法"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" height="20" align="center"></a>&thinsp;
   <a href="https://youtu.be/SFSfAoHYki0"><img src="https://www.google.com/s2/favicons?domain=youtu.be&size=32" alt="YouTube" height="20" align="center"></a>  
 
-### **🏖 [DataView Image Gallery](https://github.com/neon-aiart/dataview-image-gallery)**  
+### **🏖️ [DataView Image Gallery](https://github.com/neon-aiart/dataview-image-gallery)**  
 
 Obsidianのノート内に、プラグイン級の高機能な画像ギャラリーを構築できるDataviewJSスクリプト  
 
@@ -164,13 +168,13 @@ YouTubeのコミュニティ投稿における「○か月前」といった曖�
 
 Fetch and display exact timestamps (YYYY/MM/DD HH:mm:ss) for YouTube Community posts.  
 
-### **🐦 [Chirp Whisper Link](https://github.com/neon-aiart/chirp-whisper-link/)**  
+### **🐦 [Chirp Whisper Link](https://github.com/neon-aiart/chirp-whisper-link)**  
 
 **AI×AIのハイブリッド文字起こしの決定版！** WhisperとGeminiを使って、専門用語も逃さず全自動で文字起こしする究極のColabノートブック  
 
 The Ultimate **AI-to-AI Hybrid Transcription** Tool! A master-class Colab notebook for fully automated transcription that captures every technical term using Whisper and Gemini.  
 
-### **🐥 [Figure AIart Maker](https://github.com/neon-aiart/figure-aiart-maker/)**  
+### **🐥 [Figure AIart Maker](https://github.com/neon-aiart/figure-aiart-maker)**  
 
 **Gemini Canvas専用の画像生成補助アプリ**: アップロードするだけで、高品質なフィギュア風イラストに変換します  
 
@@ -180,7 +184,7 @@ The Ultimate **AI-to-AI Hybrid Transcription** Tool! A master-class Colab notebo
   <a href="#-gemini-canvasの裏側-消えたモデルと残った専用モデルそして非公表の新モデルのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" height="20" align="center"></a>  
 
 <!--
-### **🍽️ [Meshi AIart Maker](https://github.com/neon-aiart/meshi-aiart-maker/)**  
+### **🍽️ [Meshi AIart Maker](https://github.com/neon-aiart/meshi-aiart-maker)**  
 
 **Gemini Canvas専用の画像生成補助アプリ**: ワンクリックで、究極の「飯テロ」画像が生成できます  
 
@@ -191,49 +195,49 @@ An ultimate "Appetite-Stimulating" image generation aid specifically designed fo
   <a href="https://youtu.be/8zejiDRTeWk"><img src="https://www.google.com/s2/favicons?domain=youtu.be&size=32" alt="YouTube" height="20" align="center"></a>  
 -->
 
-### **🔄️ [Bluesky Tokimeki Switcher](https://github.com/neon-aiart/bsky-tokimeki-switcher/)**  
+### **🔄️ [Bluesky Tokimeki Switcher](https://github.com/neon-aiart/bsky-tokimeki-switcher)**  
 
 **BSKY ⇔ Tokimeki 切り替え**: URLをボタンやショートカットで瞬時に切り替えるUserScript  
 
 A UserScript to instantly **switch between Bluesky and Tokimeki URLs** via buttons or shortcuts.  
 
-### **⚖️ [Bsky Follower Comparer](https://github.com/neon-aiart/bsky-follower-comparer/)**  
+### **⚖️ [Bsky Follower Comparer](https://github.com/neon-aiart/bsky-follower-comparer)**  
 
 **Blueskyフォロワー比較ツール**: ログイン不要、最大３つのアカウントの共通点や差異を抽出します  
 
 **A tool to compare followers** of multiple accounts (up to 3) and extract commonalities/differences without logging in.  
 
-### **📝 [Universal ALT Text Viewer](https://github.com/neon-aiart/universal-alt-text-viewer/)**  
+### **📝 [Universal ALT Text Viewer](https://github.com/neon-aiart/universal-alt-text-viewer)**  
 
 **画像や動画のALTテキストを可視化**: マウスホバーだけで瞬時に表示し、ワンクリックでコピーするUserScriptです  
 
 This UserScript **instantly displays ALT text for images and videos** with just a hover, and allows for one-click copying.  
 
-### **✨ [TOKIMEKI Sparkle Enhancer](https://github.com/neon-aiart/tokimeki-sparkle-enhancer/)**  
+### **✨ [TOKIMEKI Sparkle Enhancer](https://github.com/neon-aiart/tokimeki-sparkle-enhancer)**  
 
 TOKIMEKIの「メディアビュー（画像表示）」や「予約投稿一覧」をより快適に、もっとキラキラに拡張するためのUserScript  
 
 TOKIMEKI Sparkle Enhancer is a Tampermonkey userscript designed to expand and elevate your TOKIMEKI experience, focused on bringing extra sparkle and comfort to your "Media View (Image Viewer)" and "Scheduled Posts."  
 
-### **🥞 [TOKIMEKI Hyperlink Rich Paste](https://github.com/neon-aiart/tokimeki-hyperlink-rich-paste/)**  
+### **🥞 [TOKIMEKI Hyperlink Rich Paste](https://github.com/neon-aiart/tokimeki-hyperlink-rich-paste)**  
 
-[TOKIMEKI](https://tokimeki.blue/) の投稿文入力エリアへテキストをペーストする際、ハイパーリンク（アンカータグ `<a>`）をプレーンテキストに変換されることなく、リンクを維持したまま貼り付けする UserScript  
+[TOKIMEKI](https://tokimeki.blue) の投稿文入力エリアへテキストをペーストする際、ハイパーリンク（アンカータグ `<a>`）をプレーンテキストに変換されることなく、リンクを維持したまま貼り付けする UserScript  
 
-A UserScript that preserves hyperlinks (anchor tags `<a>`) when pasting text into the post input area of [TOKIMEKI](https://tokimeki.blue/), preventing them from being converted to plain text.  
+A UserScript that preserves hyperlinks (anchor tags `<a>`) when pasting text into the post input area of [TOKIMEKI](https://tokimeki.blue), preventing them from being converted to plain text.  
 
-### **📋 [Tokimeki DID Copy Plus](https://github.com/neon-aiart/tokimeki-did-copy-plus/)**  
+### **📋 [Tokimeki DID Copy Plus](https://github.com/neon-aiart/tokimeki-did-copy-plus)**  
 
 **不変のプロフィールリンクを瞬時に取得**: ハンドルの変更に左右されない「DIDベースのURL」をコピーし、アクセシビリティも向上させます  
 
 A specialized UserScript for "Tokimeki" to **instantly copy "Invariable Links (DID-based URLs)"** and enhance accessibility.  
 
-### **🏷️ [Auto Tags Filler for chichi-pui & iromirai](https://github.com/neon-aiart/auto-tags-filler/)**  
+### **🏷️ [Auto Tags Filler for chichi-pui & iromirai](https://github.com/neon-aiart/auto-tags-filler)**  
 
 **AIイラスト投稿サイトのタグ入力を自動化**: テンプレート化したタグをワンクリックで入力・確定し、投稿の手間を大幅に削減します  
 
 **Automates tag entry for AI illustration sites** like Chichi-pui and Iromirai. Save templates and fill/confirm tags with a single click.  
 
-### **↩️ [History Go First](https://github.com/neon-aiart/history-go-first/)**  
+### **↩️ [History Go First](https://github.com/neon-aiart/history-go-first)**  
 
 **履歴の最初へ一気に戻る**: ブラウザの履歴を遡り、最初に開いたページまで瞬時に戻ります  
 
@@ -242,19 +246,19 @@ A UserScript that **navigates back to the very first page** of the browser histo
 > see also:&nbsp;
   <a href="#-aiには最適解として提示することはできないロジックのお話"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="📖" height="20" align="center"></a>  
 
-### **💾 [HTML Source Downloader](https://github.com/neon-aiart/html-source-downloader/)**  
+### **💾 [HTML Source Downloader](https://github.com/neon-aiart/html-source-downloader)**  
 
 **Webページのソースを文字化けせず保存**: HTMLソースコードを、UTF-8形式で安全にローカルへ保存できるUserScriptです  
 
 A UserScript to save **the HTML source code of web pages** in UTF-8 format without character encoding issues.  
 
-### **🔗 [X Clean Copy Link](https://github.com/neon-aiart/x-clean-copy-link/)**  
+### **🧼 [X Clean Copy Link](https://github.com/neon-aiart/x-clean-copy-link)**  
 
-X（Twitter）で「リンクをコピー」した際につく余計なトラッキングパラメータ（`?s=20` や `?t=...` 等）を自動でカットするUserScriptです  
+X（Twitter）やYouTubeで「リンクをコピー」した際につく余計なトラッキングパラメータ（`?s=20`, `?t=...`, `?si=...` 等）を自動でカットするUserScriptです  
 
-A UserScript that automatically removes unnecessary tracking parameters (e.g., `?s=20`, `?t=...`) when you copy links on X (Twitter).  
+A UserScript that automatically removes unnecessary tracking parameters (e.g., `?s=20`, `?t=...`, `?si=...`) when you copy links on X (Twitter) and YouTube.  
 
-### **🍣 [Spitch Omakase Connect](https://github.com/neon-aiart/spitch-omakase-connect/)**  
+### **🍣 [Spitch Omakase Connect](https://github.com/neon-aiart/spitch-omakase-connect)**  
 
 GoogleColabでVOICEVOXとRVCの環境構築  
 
