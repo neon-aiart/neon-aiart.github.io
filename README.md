@@ -213,6 +213,12 @@ A UserScript to instantly **switch between Bluesky and Tokimeki URLs** via butto
 
 This UserScript **instantly displays ALT text for images and videos** with just a hover, and allows for one-click copying.  
 
+### **🧼 [X & YouTube Clean Copy Link](https://github.com/neon-aiart/x-clean-copy-link)**  
+
+X（Twitter）やYouTubeで「リンクをコピー」した際につく余計なトラッキングパラメータ（`?s=20`, `?t=...`, `?si=...` 等）を自動でカットするUserScriptです  
+
+A UserScript that automatically removes unnecessary tracking parameters (e.g., `?s=20`, `?t=...`, `?si=...`) when you copy links on X (Twitter) and YouTube.  
+
 ### **✨ [TOKIMEKI Sparkle Enhancer](https://github.com/neon-aiart/tokimeki-sparkle-enhancer)**  
 
 TOKIMEKIの「メディアビュー（画像表示）」や「予約投稿一覧」をより快適に、もっとキラキラに拡張するためのUserScript  
@@ -251,12 +257,6 @@ A UserScript that **navigates back to the very first page** of the browser histo
 **Webページのソースを文字化けせず保存**: HTMLソースコードを、UTF-8形式で安全にローカルへ保存できるUserScriptです  
 
 A UserScript to save **the HTML source code of web pages** in UTF-8 format without character encoding issues.  
-
-### **🧼 [X & YouTube Clean Copy Link](https://github.com/neon-aiart/x-clean-copy-link)**  
-
-X（Twitter）やYouTubeで「リンクをコピー」した際につく余計なトラッキングパラメータ（`?s=20`, `?t=...`, `?si=...` 等）を自動でカットするUserScriptです  
-
-A UserScript that automatically removes unnecessary tracking parameters (e.g., `?s=20`, `?t=...`, `?si=...`) when you copy links on X (Twitter) and YouTube.  
 
 ### **🍣 [Spitch Omakase Connect](https://github.com/neon-aiart/spitch-omakase-connect)**  
 
