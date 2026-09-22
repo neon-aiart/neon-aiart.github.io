@@ -219,6 +219,12 @@ X（Twitter）やYouTubeで「リンクをコピー」した際につく余計�
 
 A UserScript that automatically removes unnecessary tracking parameters (e.g., `?s=20`, `?t=...`, `?si=...`) when you copy links on X (Twitter) and YouTube.  
 
+### **😺 [GitHub Copy Raw File URL and Download File](https://github.com/neon-aiart/github-copy-raw-url)**  
+
+ファイルリストの各行末尾に、Raw URLのコピーとファイルのダウンロードを行うボタンを追加します  
+
+Add buttons at the end of each file line to copy the raw file URL and download the file.  
+
 ### **✨ [TOKIMEKI Sparkle Enhancer](https://github.com/neon-aiart/tokimeki-sparkle-enhancer)**  
 
 TOKIMEKIの「メディアビュー（画像表示）」や「予約投稿一覧」をより快適に、もっとキラキラに拡張するためのUserScript  
