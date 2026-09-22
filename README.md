@@ -221,9 +221,9 @@ A UserScript that automatically removes unnecessary tracking parameters (e.g., `
 
 ### **😺 [GitHub Copy Raw File URL and Download File](https://github.com/neon-aiart/github-copy-raw-url)**  
 
-ファイルリストの各行末尾に、Raw URLのコピーとファイルのダウンロードを行うボタンを追加します  
+GitHubのファイル一覧から、ワンクリックで「Raw URLのコピー」および「ファイルの直接ダウンロード」を行えるユーザースクリプトです  
 
-Add buttons at the end of each file line to copy the raw file URL and download the file.  
+A userscript for GitHub file directories that enables one-click "Raw URL copying" and "direct file downloading".  
 
 ### **✨ [TOKIMEKI Sparkle Enhancer](https://github.com/neon-aiart/tokimeki-sparkle-enhancer)**  
 
