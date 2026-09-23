@@ -233,9 +233,15 @@ TOKIMEKI Sparkle Enhancer is a Tampermonkey userscript designed to expand and el
 
 ### **🥞 [TOKIMEKI Hyperlink Rich Paste](https://github.com/neon-aiart/tokimeki-hyperlink-rich-paste)**  
 
-[TOKIMEKI](https://tokimeki.blue) の投稿文入力エリアへテキストをペーストする際、ハイパーリンク（アンカータグ `<a>`）をプレーンテキストに変換されることなく、リンクを維持したまま貼り付けする UserScript  
+[TOKIMEKI](https://tokimeki.blue)の投稿文入力エリアへテキストをペーストする際、ハイパーリンク（アンカータグ `<a>`）をプレーンテキストに変換されることなく、リンクを維持したまま貼り付けする UserScript  
 
 A UserScript that preserves hyperlinks (anchor tags `<a>`) when pasting text into the post input area of [TOKIMEKI](https://tokimeki.blue), preventing them from being converted to plain text.  
+
+### **⚓ [TOKIMEKI Movable Publish Popup](https://github.com/neon-aiart/tokimeki-movable-publish-popup)**  
+
+[TOKIMEKI](https://tokimeki.blue)の投稿文入力エリアを自由な位置へドラッグ移動および高さのリサイズができるようにするユーザースクリプト  
+
+A UserScript that allows you to freely drag, relocate, and resize the height of the post popup (dialog) on TOKIMEKI (a Bluesky client).  
 
 ### **📋 [Tokimeki DID Copy Plus](https://github.com/neon-aiart/tokimeki-did-copy-plus)**  
 
