@@ -336,6 +336,14 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 
 * **[Adding a Completion Notification Sound to OneTrainer](https://zenn.dev/neon_aiart/articles/6775c72d1b165b?locale=en)**  
 
+### 📖 **[OneTrainerに完了時の通知音を鳴らすコードを追加したお話](https://zenn.dev/neon_aiart/articles/02f37da9006999)**  
+
+* **[Positioning the Selection Search Chrome Extension Icon via Custom CSS](https://zenn.dev/neon_aiart/articles/02f37da9006999?locale=en)**  
+
+### 📖 **[SD WebUI reForgeの裏側： 放置されるPNG Info破損バグと、幻となった修正案](https://zenn.dev/neon_aiart/articles/5e4d40df85afa9)**  
+
+* **[Inside SD WebUI reForge: An Ignored PNG Info Bug and the Phantom Fix](https://zenn.dev/neon_aiart/articles/5e4d40df85afa9?locale=en)**  
+
 <!--
 <script src="https://blueskytimeline.com/timeline.js" async data-handle="neon-ai.art" data-theme="gray" data-width="420" data-height="500" data-lang="ja" data-ui="0" data-prof="0" data-pin="1" data-rp="1" data-thread="0" data-id="timeline"></script>
 -->
