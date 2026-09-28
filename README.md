@@ -336,7 +336,7 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 
 * **[Adding a Completion Notification Sound to OneTrainer](https://zenn.dev/neon_aiart/articles/6775c72d1b165b?locale=en)**  
 
-### 📖 **[OneTrainerに完了時の通知音を鳴らすコードを追加したお話](https://zenn.dev/neon_aiart/articles/02f37da9006999)**  
+### 📖 **[Chrome拡張「Selection Search」のアイコン位置をCustom CSSで調整したお話](https://zenn.dev/neon_aiart/articles/02f37da9006999)**  
 
 * **[Positioning the Selection Search Chrome Extension Icon via Custom CSS](https://zenn.dev/neon_aiart/articles/02f37da9006999?locale=en)**  
 
