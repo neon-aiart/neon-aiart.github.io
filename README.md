@@ -219,7 +219,7 @@ X（Twitter）やYouTubeで「リンクをコピー」した際につく余計�
 
 A UserScript that automatically removes unnecessary tracking parameters (e.g., `?s=20`, `?t=...`, `?si=...`) when you copy links on X (Twitter) and YouTube.  
 
-### **😺 [GitHub Copy Raw File URL and Download File](https://github.com/neon-aiart/github-copy-raw-url)**  
+### **<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/d1d7e0"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"><img src="https://cdn.simpleicons.org/github/181717" height="22" alt="github"></picture> [GitHub Copy Raw File URL and Download File](https://github.com/neon-aiart/github-copy-raw-url)**  
 
 GitHubのファイル一覧から、ワンクリックで「Raw URLのコピー」および「ファイルの直接ダウンロード」を行えるユーザースクリプトです  
 
