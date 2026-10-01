@@ -164,9 +164,9 @@ A plugin-grade, feature-rich image gallery script for Obsidian built with Datavi
 
 ### **⚡ [YouTube Community Exact Date & Time](https://github.com/neon-aiart/youtube-community-exact-date-time)**  
 
-YouTubeのコミュニティ投稿における「○か月前」といった曖昧な日時表示を、ソースコードから取得した正確な日時（秒単位）に書き換えるUserScript  
+YouTubeの投稿に、正確な日時（秒単位）を表示します、投稿・コミュニティ・個別ページ対応  
 
-Fetch and display exact timestamps (YYYY/MM/DD HH:mm:ss) for YouTube Community posts.  
+Displays precise date and time (down to the second) on YouTube posts, supporting the Posts tab, Community page, and individual posts.  
 
 ### **🐦 [Chirp Whisper Link](https://github.com/neon-aiart/chirp-whisper-link)**  
 
