@@ -1,4 +1,4 @@
-# <img src="https://neon-aiart.github.io/favicon.ico" alt="neon-aiart icon" width="128" height="128" /> **ねおん (Neon)** <img src="https://komarev.com/ghpvc/?username=neon-aiart&label=Profile%20views&color=0e75b6&style=flat" alt="neon-aiart" align="right" />  
+# <img src="https://neon-aiart.github.io/favicon.ico" alt="neon-aiart icon" width="128" height="128" /> **ねおん (Neon)** <img src="https://image-cache.neon-aiillust.workers.dev/?url=https://komarev.com/ghpvc/?username=neon-aiart%26label=Profile%20views%26color=0e75b6%26style=flat" alt="neon-aiart" align="right" />  
 
 <table align="center" border="0" width="100%">
   <tr>
