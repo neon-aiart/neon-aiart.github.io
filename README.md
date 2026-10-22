@@ -213,11 +213,11 @@ A UserScript to instantly **switch between Bluesky and Tokimeki URLs** via butto
 
 This UserScript **instantly displays ALT text for images and videos** with just a hover, and allows for one-click copying.  
 
-### **🧼 [X & YouTube Clean Copy Link](https://github.com/neon-aiart/x-clean-copy-link)**  
+### **🧼 [Partout Purge: Pure Clean Copy Link](https://github.com/neon-aiart/partout-purge)**  
 
-X（Twitter）やYouTubeで「リンクをコピー」した際につく余計なトラッキングパラメータ（`?s=20`, `?t=...`, `?si=...` 等）を自動でカットするUserScriptです  
+X（Twitter）、YouTube、note、Bluesky、Amazonなどの主要サイトで、リンクや画像リンクの不要なトラッキングパラメータ（`?s=20`, `?t=...`, `?si=...` など）を自動削除し、最適化するUserScriptです（編集で拡張可能）  
 
-A UserScript that automatically removes unnecessary tracking parameters (e.g., `?s=20`, `?t=...`, `?si=...`) when you copy links on X (Twitter) and YouTube.  
+Automatically removes tracking parameters (e.g., `?s=20`, `?t=...`, `?si=...`) and optimizes links for major sites like X (Twitter), YouTube, note, Bluesky, and Amazon (extensible via code editing).  
 
 ### **<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/d1d7e0"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"><img src="https://cdn.simpleicons.org/github/181717" height="22" alt="github"></picture> [GitHub Copy Raw File URL and Download File](https://github.com/neon-aiart/github-copy-raw-url)**  
 
