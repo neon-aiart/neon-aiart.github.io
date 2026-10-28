@@ -243,11 +243,11 @@ A UserScript that preserves hyperlinks (anchor tags `<a>`) when pasting text int
 
 A UserScript that allows you to freely drag, relocate, and resize the height of the post popup (dialog) on TOKIMEKI (a Bluesky client).  
 
-### **📋 [Tokimeki DID Copy Plus](https://github.com/neon-aiart/tokimeki-did-copy-plus)**  
+### **📋 [TOKIMEKI DID & DateTime Copy Plus & Open Bluesky](https://github.com/neon-aiart/tokimeki-did-copy-plus)**  
 
-**不変のプロフィールリンクを瞬時に取得**: ハンドルの変更に左右されない「DIDベースのURL」をコピーし、アクセシビリティも向上させます  
+Blueskyクライアント "TOKIMEKI" において、ハンドルの変更に左右されない **「不変のリンク（DIDベースのURL）」** の取得や投稿日時のワンクリックコピー、さらに**Blueskyで直接開く機能**を備え、アクセシビリティと快適さを追求した高度なUserScriptです  
 
-A specialized UserScript for "Tokimeki" to **instantly copy "Invariable Links (DID-based URLs)"** and enhance accessibility.  
+A specialized UserScript for the Bluesky client "TOKIMEKI" that allows you to instantly copy **"Invariable Links (DID-based URLs)"**, copy post datetimes, and **open posts directly in Bluesky**, with a focus on advanced accessibility and UX.  
 
 ### **🏷️ [Auto Tags Filler for chichi-pui & iromirai](https://github.com/neon-aiart/auto-tags-filler)**  
 
