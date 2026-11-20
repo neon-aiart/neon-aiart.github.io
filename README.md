@@ -344,6 +344,10 @@ A simple script that **prevents videos from auto-playing when opening a TVer epi
 
 * **[Inside SD WebUI reForge: An Ignored PNG Info Bug and the Phantom Fix](https://zenn.dev/neon_aiart/articles/5e4d40df85afa9?locale=en)**  
 
+### 📖 **[Forge Neo: sd-forge-negpip と anima-ref-adapter-neo の併用時エラーを修正したお話](https://zenn.dev/neon_aiart/articles/bbeabcf9b3114a)**  
+
+* **[Forge Neo: How I Fixed Compatibility Errors Between sd-forge-negpip and anima-ref-adapter-neo](https://zenn.dev/neon_aiart/articles/bbeabcf9b3114a?locale=en)**  
+
 <!--
 <script src="https://blueskytimeline.com/timeline.js" async data-handle="neon-ai.art" data-theme="gray" data-width="420" data-height="500" data-lang="ja" data-ui="0" data-prof="0" data-pin="1" data-rp="1" data-thread="0" data-id="timeline"></script>
 -->
